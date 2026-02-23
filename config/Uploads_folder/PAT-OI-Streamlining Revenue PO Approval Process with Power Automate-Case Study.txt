@@ -1,0 +1,12 @@
+Case Study Name: PAT-OI-Streamlining Revenue PO Approval Process with Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Consumer Goods and Beverages\n\nChallenges: - Manual Data Entry leading to human error and delays.
+- Manual Email Notifications causing communication gaps and tracking difficulties.
+- Manual Data Storage increasing the risk of data errors.
+- Resource Allocation issues due to significant manpower devoted to manual tasks.\n\nSolution: - Implemented a portal for automated data entry of PO approval data.
+- Streamlined approval workflow using Power Automate to trigger emails to approvers.
+- Automated data storage in SharePoint for organized access.
+- Real-time notifications sent to stakeholders for improved communication.\n\nSolution Benefits: - Saved up to 60 hours for each PO approved.
+- Reduced time spent on data entry and notifications, enhancing efficiency.
+- Minimized human errors, improving data accuracy.
+- Provided instant updates on approval statuses for quicker decision-making.
+- Ensured timely communication, reducing missed approvals.
+- Improved transparency and accountability with a clear audit trail.\n\nKey Phrases: Power Automate, Revenue Purchase Order (PO) approval process, automated data entry, automated approval workflow, SharePoint, real-time updates, audit trail, time efficiency, enhanced efficiency, improved accuracy\n\nTechnology: Power Automate, SharePoint\n\nClient Location: Anaheim, CA

@@ -1,0 +1,14 @@
+Case Study Name: FAB-ED-Migrating Azure database’s to Microsoft Fabric-Case Study\n\nCase Study Details:\n\nIndustry: Non-Governmental Organization\n\nChallenges: - Reliance on fragmented systems leading to data silos
+- Lack of real-time data access affecting decision-making
+- Delayed reporting due to constrained analytics processes
+- Separate applications and databases complicating cross-functional reporting\n\nSolution: - Migrated databases to Microsoft Fabric for centralized data management
+- Consolidated data from various sources into a unified platform using Synapse Lakehouse and Synapse Data Warehouse
+- Utilized Power BI as the single reporting tool for operational and advanced analytics
+- Developed a pipeline for daily and real-time data loads
+- Created real-time dashboards for operational teams
+- Configured role-based access controls for enhanced security\n\nSolution Benefits: - Enhanced data management by eliminating silos
+- Unified data management improving efficiency
+- Real-time data access enabling timely insights
+- Built-in security features ensuring data integrity
+- Greater scalability and flexibility for future growth
+- Improved reporting and analytics with actionable insights\n\nKey Phrases: Microsoft Fabric, Power BI, Synapse Lakehouse, Synapse Data Warehouse, real-time analytics, role-based access, data governance, data integrity, operational efficiency\n\nTechnology: Microsoft Fabric, Power BI, Azure SQL, DevOps\n\nClient Location: Nairobi

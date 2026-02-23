@@ -1,0 +1,15 @@
+Case Study Name: FS- Overcoming IT Challenges for an Asset Management Firm- Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Rapid business growth leading to project backlogs
+- Insufficient IT resources for development, operations, and QA
+- Difficulty in obtaining a holistic view of business data
+- Inability to focus on development and innovation initiatives\n\nSolution: - Deployment of a dedicated IT consultant team
+- Centralized data integration and migration
+- Customized reporting for unique analyst needs
+- Independent validation and verification (IV&V) services
+- Operation support and monitoring during off-hours
+- Comprehensive application development services
+- Tailored reporting solutions with advanced dashboards\n\nSolution Benefits: - 80% reduction in IT project backlogs within three years
+- 60% reduction in IT expenditures
+- Improved productivity through automation of IT tasks
+- Greater focus on core activities like asset management and client service
+- Lower overhead costs due to reduced IT infrastructure needs
+- Flexibility to adjust project resources based on demand\n\nKey Phrases: cloud data analytics, Azure infrastructure, app migration, no/low-code solutions, virtual bots, RPA, automation, smart business intelligence systems, data repository, customized reports, zero-defect testing, Tableau dashboards, pre-trade and post-trade operations, ISO 9001:2015\n\nTechnology: Azure, Tableau\n\nClient Location: Anaheim, CA

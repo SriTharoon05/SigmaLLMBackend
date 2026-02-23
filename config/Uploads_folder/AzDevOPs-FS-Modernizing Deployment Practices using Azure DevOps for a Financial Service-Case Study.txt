@@ -1,0 +1,16 @@
+Case Study Name: AzDevOPs-FS-Modernizing Deployment Practices using Azure DevOps for a Financial Service-Case Study\n\nCase Study Details:\n\nIndustry: Financial Services\n\nChallenges: - Inefficiencies and risks due to manual deployment processes
+- Reliance on Team Foundation Server (TFS) for version control
+- Deployment via IIS instances across on-premises environments
+- Manual nature introducing errors and consuming time
+- Difficulty in maintaining consistent configurations across environments
+- Lack of automated backups and rollbacks increasing deployment risks\n\nSolution: - Implemented a DevOps pipeline leveraging Azure DevOps and CI/CD practices
+- Established a Continuous Integration (CI) pipeline to automate the development process
+- Created a Continuous Deployment (CD) pipeline for seamless deployment to IIS servers
+- Enhanced configuration management for consistent settings across environments
+- Addressed merging conflicts promptly to foster collaboration among developers\n\nSolution Benefits: - Accelerated time-to-market for new features and updates
+- Enhanced productivity through collaboration between development and operations teams
+- Optimized resource utilization leading to reduced wastage and maximized ROI
+- Higher customer satisfaction due to reliable and high-quality software delivery
+- Improved security and compliance, building customer trust
+- Real-time insights for data-driven decision-making
+- Ensured business continuity and reliability with 24/7 DevOps support\n\nKey Phrases: Azure DevOps, CI/CD, Continuous Integration, Continuous Deployment, IIS servers, configuration management, automated backups, real-time insights, business continuity, resource optimization\n\nTechnology: Azure DevOps\n\nClient Location: Anaheim, CA

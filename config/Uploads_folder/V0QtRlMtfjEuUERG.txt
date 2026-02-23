@@ -1,0 +1,15 @@
+Case Study Name: V0QtRlMtfjEuUERG\n\nCase Study Details:\n\nIndustry: Investment and Asset Management\n\nChallenges: - Lack of a uniform scoring model for ESG pillars leading to inconsistent evaluations
+- Scattered committee discussions and analyst evaluations across emails, spreadsheets, and notes
+- Absence of a structured assessment framework and clear audit trail for financial indicators
+- Manual data retrieval causing delays in investor query responses and reduced transparency\n\nSolution: - Developed a custom ESG Rating Application with a scalable and secure technology stack
+- Implemented a scoring engine calculating weighted ESG ratings for Environmental, Social, and Governance pillars separately
+- Created an investor-focused reporting module displaying ESG scores, risk indicators, sustainability factors, and momentum trends
+- Established a central repository for committee feedback, analyst observations, and meeting logs
+- Segregated assessment modules for each ESG pillar with specific key drivers
+- Automated data processing and scoring logic using rule-based algorithms for consistency and accuracy
+- Utilized Angular, PrimeNG, RxJS for frontend; .NET Core Web API and MSSQL for backend; Azure DevOps for CI/CD and version control\n\nSolution Benefits: - Reduced ESG report preparation time by approximately 50–70%
+- Improved rating accuracy by over 90%, minimizing manual errors
+- Enabled investment decisions 30–40% faster with immediate access to structured ESG insights
+- Decreased administrative costs by 20–35% through automation and centralized reporting
+- Centralized access to all evaluations and feedback, enhancing traceability
+- Increased investor confidence through standardized and transparent reporting\n\nKey Phrases: ESG Rating Application, scoring engine, Environmental Social Governance pillars, weighted algorithms, investor decision support, committee engagement log, key risk indicators, sustainability factors, momentum trends, Angular 15.2.10, PrimeNG 15.4.0, RxJS, BehaviorSubject, .NET Core Web API, MSSQL database, Windows Authentication, Azure DevOps, CI/CD automation, Git, TFS, 50–70% faster report generation, 90% rating accuracy, 30–40% faster investment decisions, 20–35% reduced admin costs\n\nTechnology: Power BI, Angular, PrimeNG, RxJS, .NET Core Web API, MSSQL, Azure DevOps, Git, TFS\n\nClient Location: Global investment firm with headquarters in Anaheim, CA, USA

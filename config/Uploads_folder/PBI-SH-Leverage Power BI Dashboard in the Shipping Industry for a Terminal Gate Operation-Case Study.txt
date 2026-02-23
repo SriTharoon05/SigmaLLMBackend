@@ -1,0 +1,12 @@
+Case Study Name: PBI-SH-Leverage Power BI Dashboard in the Shipping Industry for a Terminal Gate Operation-Case Study\n\nCase Study Details:\n\nIndustry: Shipping\n\nChallenges: - High delay in truck operations at the terminal
+- No real-time truck monitoring solution
+- Increased dwell time affecting truck movements
+- Disruption of truck appointments
+- Difficulty in handling truck traffic or congestion\n\nSolution: - Developed and integrated a real-time Power BI dashboard with the Terminal Operating System (TOS)
+- Created reports to track truck dwell time against targets
+- Implemented gate volume analysis and appointment status tracking
+- Automated dashboard for managing appointments and improving operational efficiency\n\nSolution Benefits: - Fully automated real-time reporting solution
+- User-friendly dashboards for easy tracking
+- Cost-effective operational management
+- Increased efficiency in terminal operations
+- Centralized reporting for informed decision-making\n\nKey Phrases: Power BI, Terminal Operating System (TOS), Average Dwell Time Reports, Gate Volume Dashboards, Truck Turn Around Time (TTT), Truck Movement Analytics, Real-time Reporting, Automated Dashboard\n\nTechnology: Power BI\n\nClient Location: Anaheim, CA

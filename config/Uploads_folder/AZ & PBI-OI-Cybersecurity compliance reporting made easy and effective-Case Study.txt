@@ -1,0 +1,10 @@
+Case Study Name: AZ & PBI-OI-Cybersecurity compliance reporting made easy and effective-Case Study\n\nCase Study Details:\n\nIndustry: Digital Engineering Services\n\nChallenges: - Manual compliance reporting induces more effort and cost.
+- Manual errors causing insufficient tracking and monitoring.
+- Connecting to several data sources like Fire Compass, SCCM, and BitLocker.
+- Delay in reporting due to lengthy preparation time for reports.\n\nSolution: - Created a fully automated cybersecurity compliance system using Azure and business intelligence expertise.
+- Utilized Power BI for reporting design and Azure Data Factory (ADF) and Azure SQL DB for data ingestion, transformation, and storage.
+- Seamless integration with data sources using Microsoft’s Graph API and other data source APIs.
+- Periodically scheduled data refresh for reports.\n\nSolution Benefits: - Effectively track and monitor compliance.
+- High security and availability.
+- Extremely efficient with no manual efforts required.
+- High accuracy in reporting.\n\nKey Phrases: Cybersecurity compliance, Microsoft Azure, Power BI, Azure Data Factory, Azure SQL DB, data ingestion, data transformation, data storage, compliance tracking, employee phishing KPIs, security training tracking, risky users monitoring.\n\nTechnology: Power BI, Azure Data Factory, Azure SQL DB, Microsoft Graph API\n\nClient Location: Anaheim, CA

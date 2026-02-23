@@ -1,0 +1,13 @@
+Case Study Name: PAT-FS-Automation Makes ESG Score Screening Faster\n\nCase Study Details:\n\nIndustry: Financial Services\n\nChallenges: - Time-consuming manual extraction of ESG scores
+- High risk of human errors in data entry
+- Inefficient tracking and approval process for investment decisions
+- Lack of a centralized system for ESG data management
+- Inconsistent reporting formats leading to miscommunication\n\nSolution: - Implemented Power Automate to automate ESG score extraction from Sustainalytics
+- Developed a centralized Dashboard using Power Apps for real-time data visibility
+- Standardized reporting format for consistency
+- Enabled instant notifications for approvals via email and MS Teams
+- Allowed analysts to submit calculations directly through the dashboard\n\nSolution Benefits: - Significantly reduced time for data collection
+- Centralized access to ESG-related information
+- Instant approval process for investment decisions
+- Shortened turnaround time between request submission and approval
+- Increased stakeholder satisfaction through timely reporting\n\nKey Phrases: ESG scores, Power Automate, Power Apps, Sustainalytics, centralized system, data aggregation, instant approvals, standardized reporting, real-time notifications, investment decisions\n\nTechnology: Power Automate, Power Apps\n\nClient Location: Los Angeles, CA

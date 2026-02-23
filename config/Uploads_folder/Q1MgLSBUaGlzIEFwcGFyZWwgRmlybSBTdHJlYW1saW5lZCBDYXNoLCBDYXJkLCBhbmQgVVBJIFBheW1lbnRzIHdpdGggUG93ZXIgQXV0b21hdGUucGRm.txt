@@ -1,0 +1,18 @@
+Case Study Name: Q1MgLSBUaGlzIEFwcGFyZWwgRmlybSBTdHJlYW1saW5lZCBDYXNoLCBDYXJkLCBhbmQgVVBJIFBheW1lbnRzIHdpdGggUG93ZXIgQXV0b21hdGUucGRm\n\nCase Study Details:\n\nIndustry: Retail - Apparel and Lifestyle Products\n\nChallenges: - Manual matching of store-wise transactions due to consolidated payment gateway reports without store details
+- Handling different file formats across payment gateways, Amply, and ERP system (Odoo)
+- Complex payment scenarios including split payments, delayed settlements, and international card charges
+- Manual tracking and documentation of mismatches leading to time-consuming and error-prone processes
+- Difficulty scaling reconciliation process with addition of new POS machines, counters, or stores
+- Time-heavy daily reconciliation process taking 2.5 to 3.5 hours, causing delays during high sales periods\n\nSolution: - Implemented end-to-end automation using Power Automate integrated with AI
+- Created centralized TID mapping file to link transactions to specific stores for automatic matching
+- Standardized data from multiple sources into structured templates and a single clean Excel file
+- Developed sum-up logic to handle complex payment scenarios accurately
+- Automated flagging of transactional mismatches with system-generated remarks
+- Enabled scalability by allowing easy updates to TID-store mappings without code changes
+- Automated email alerts for mismatches, data fetch issues, and processing delays
+- Stored daily reconciled reports automatically in Dataverse for simplified audits\n\nSolution Benefits: - Reduced reconciliation time from 3.5 hours to 12 minutes
+- Faster and easier detection of payment mismatches across cash, card, and UPI
+- Automated notifications enabling prompt corrective actions
+- Simplified audit process with organized report storage
+- Minimized manual effort and errors
+- Scalable solution accommodating business growth without rework\n\nKey Phrases: Power Automate, AI integration, TID (Terminal ID) mapping, Odoo ERP, Point-of-Sale (POS) systems, Amply tool, UPI payments, split payments, international card charges, transaction reconciliation, automated email alerts, Dataverse, no/low-code solutions, browser automation, APIs, structured data templates, sum-up logic, transaction mismatch flagging\n\nTechnology: Power Automate, AI, Odoo ERP, Dataverse, Browser Automation, APIs\n\nClient Location: India

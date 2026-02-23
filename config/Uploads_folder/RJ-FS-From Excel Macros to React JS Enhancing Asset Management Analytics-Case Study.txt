@@ -1,0 +1,10 @@
+Case Study Name: RJ-FS-From Excel Macros to React JS Enhancing Asset Management Analytics-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Slow performance of the Excel macro-based Portfolio Analytics dashboard
+- Complex codebase hindering feature introduction and bug fixing
+- Legacy user interface limiting data access and analysis
+- Challenges in distribution, usage, and consumption of data\n\nSolution: - Replaced the front end with React JS for improved performance and user-friendliness
+- Developed a web-based application with a modularized codebase
+- Optimized codebase for easier maintenance and feature addition
+- Provided on-demand access to React JS specialists\n\nSolution Benefits: - Enhanced speed and responsiveness of the analytics solution
+- Reduced costs through streamlined development and maintenance
+- Increased agility in incorporating new features
+- Improved user experience with a highly interactive and responsive design\n\nKey Phrases: React JS, Excel Macro, Portfolio Analytics, modularized codebase, user-friendly interface, performance, scalability, data insights, risk metrics, asset allocation, interactive dashboards\n\nTechnology: React JS, Python, JSON\n\nClient Location: Anaheim, CA

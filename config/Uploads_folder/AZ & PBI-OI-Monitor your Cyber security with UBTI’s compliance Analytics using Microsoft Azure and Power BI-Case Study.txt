@@ -1,0 +1,11 @@
+Case Study Name: AZ & PBI-OI-Monitor your Cyber security with UBTI’s compliance Analytics using Microsoft Azure and Power BI-Case Study\n\nCase Study Details:\n\nIndustry: Technology Solutions and Data Analytics\n\nChallenges: - Manual compliance reporting in Excel prone to errors and delays.
+- Unavailability of centralized data storage.
+- Large data volumes without a centralized compliance dashboard.
+- Manual interaction with compliance data.
+- Lack of real-time analytical solutions.\n\nSolution: - Implemented Azure platform for automated data transformation.
+- Established a real-time Power BI compliance dashboard.
+- Integrated compliance data from various sources using Azure Data Factory (ADF).
+- Developed KPIs for tracking compliance metrics.\n\nSolution Benefits: - Streamlined data collection, reducing errors and reporting delays.
+- Centralized data storage for easier management.
+- Real-time compliance data monitoring for proactive decision-making.
+- Actionable data visualization through advanced Power BI features.\n\nKey Phrases: Compliance Analytics, Microsoft Azure, Power BI, Azure Data Factory, Real-time Dashboard, Centralized Data Storage, Data Transformation, Compliance Monitoring, KPI Tracking, Automated Data Collection\n\nTechnology: Microsoft Azure, Power BI, Azure Data Factory\n\nClient Location: Anaheim, CA

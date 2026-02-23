@@ -1,0 +1,15 @@
+Case Study Name: PAT-OI-Streamlining Subsidy Management A Case Study on Enhancing Efficiency in Vending Operations- Case Study\n\nCase Study Details:\n\nIndustry: Vending Machine and Micro Market Solutions\n\nChallenges: - Manual calculation and billing of subsidies was time-consuming and error-prone.
+- Complex pricing structures required careful calculation and billing.
+- Generating monthly reconciliation and reports was a significant administrative burden.
+- Integrating sales data from various locations into a unified billing system was challenging.\n\nSolution: - Developed an RPA bot to automate sales calculation for subsidized items.
+- Created a Power App to automatically generate invoices based on calculated subsidy amounts.
+- Configured the RPA bot to generate weekly or monthly reports for sales and subsidy billing.
+- Implemented a centralized data integration platform for sales data aggregation.
+- Developed customized pricing algorithms within the RPA bot for dynamic pricing adjustments.
+- Integrated real-time updates between the RPA bot and Power App for prompt invoice generation.\n\nSolution Benefits: - Reduced manual effort, allowing staff to focus on strategic initiatives.
+- Accelerated invoicing cycle, improving cash flow.
+- Minimized errors and ensured compliance through automated checks.
+- Designed for scalability to accommodate growth and diverse subsidy agreements.
+- Provided real-time dashboards for improved decision-making.
+- Achieved cost savings through reduced manual effort and errors.
+- Enhanced customer satisfaction with timely and accurate billing.\n\nKey Phrases: Robotic Process Automation (RPA), Power Apps, automated sales calculation, dynamic billing system, centralized data integration, customized pricing algorithms, real-time billing updates, invoicing cycle, cash flow, compliance checks, real-time dashboards, cost savings, customer satisfaction.\n\nTechnology: Robotic Process Automation (RPA), Power Apps\n\nClient Location: Anaheim, CA

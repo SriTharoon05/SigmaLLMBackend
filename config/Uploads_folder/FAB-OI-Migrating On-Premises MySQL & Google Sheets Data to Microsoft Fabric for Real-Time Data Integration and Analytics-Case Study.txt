@@ -1,0 +1,16 @@
+Case Study Name: FAB-OI-Migrating On-Premises MySQL & Google Sheets Data to Microsoft Fabric for Real-Time Data Integration and Analytics-Case Study\n\nCase Study Details:\n\nIndustry: Fresh Produce Supply Chain\n\nChallenges: - Data silos from MySQL and Google Sheets complicating integration and analysis.
+- Complex JSON-formatted columns hindering meaningful insights.
+- Lack of real-time data access limiting responsiveness to business needs.
+- Manual data flattening in PostgreSQL causing inefficiencies.
+- Delayed reporting and analysis impacting quick decision-making.\n\nSolution: - Migrated data infrastructure to Microsoft Fabric for real-time analytics.
+- Ingested streaming data into KQL database every 5 minutes.
+- Automated data flattening using PySpark notebooks in the Lakehouse.
+- Built real-time dashboards refreshed every 5 minutes.
+- Integrated Data Activator for real-time alerts via Microsoft Teams and Outlook.
+- Developed GraphQL API for secure external data sharing.\n\nSolution Benefits: - Unified data management eliminating data silos.
+- Real-time data access enabling swift responses to business needs.
+- Faster decision-making with dynamic monitoring of inventory and sales.
+- Reduced time and effort on data management through automation.
+- Enhanced operational efficiency with end-to-end visibility and alerts.
+- Scalability to handle increased data volumes as the business grows.
+- Simplified external data sharing using GraphQL APIs.\n\nKey Phrases: Microsoft Fabric, real-time analytics, data silos, JSON-formatted columns, KQL database, PySpark notebooks, real-time dashboards, Data Activator, GraphQL API, operational efficiency, data management, scalability.\n\nTechnology: Microsoft Fabric, Power BI, Azure DevOps, Data Factory, PostgreSQL, KQL, PySpark, GraphQL.\n\nClient Location: India

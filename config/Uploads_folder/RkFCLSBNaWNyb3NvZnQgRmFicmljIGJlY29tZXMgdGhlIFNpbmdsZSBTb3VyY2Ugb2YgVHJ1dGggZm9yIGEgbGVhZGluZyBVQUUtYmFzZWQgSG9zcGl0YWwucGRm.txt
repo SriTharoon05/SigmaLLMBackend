@@ -1,0 +1,17 @@
+Case Study Name: RkFCLSBNaWNyb3NvZnQgRmFicmljIGJlY29tZXMgdGhlIFNpbmdsZSBTb3VyY2Ugb2YgVHJ1dGggZm9yIGEgbGVhZGluZyBVQUUtYmFzZWQgSG9zcGl0YWwucGRm\n\nCase Study Details:\n\nIndustry: Healthcare\n\nChallenges: - Disconnected data systems across Oracle, InterSystems-Iris, WebHRSystems, and SAP
+- Multiple reporting tools (Qlik Sense, SAP Analytics Cloud, Excel) with no centralized access
+- Reports not refreshed daily, causing delays in accessing up-to-date data
+- High operational costs due to multiple tools and data environments
+- Difficulty in combining and analyzing data consistently
+- Delays in clinical decision-making and coordination between departments\n\nSolution: - Implemented a fully connected data and reporting platform using Microsoft Fabric
+- Integrated data from four primary systems via built-in Data Pipelines and Notebooks
+- Established a dedicated high-performance analytics warehouse within Microsoft Fabric
+- Automated daily and weekly data refreshes using Fabric’s scheduling features
+- Created a unified semantic model defining KPIs, metrics, and business logic
+- Migrated existing reports from Qlik Sense, SAP Analytics Cloud, and Excel to Power BI
+- Implemented role-based access control for secure, compliant data access\n\nSolution Benefits: - Delivered over 70 government-mandated Jawda reports within one month
+- Enabled on-demand departmental reporting with consistent metrics
+- Established a single source of truth for all enterprise data, eliminating silos
+- Reduced total cost of ownership by retiring multiple reporting tools
+- Built a future-ready, flexible architecture supporting new data sources and advanced use cases like AI and machine learning
+- Improved speed, accuracy, and reliability of reporting and operations\n\nKey Phrases: Microsoft Fabric, Power BI, Data Pipelines, Notebooks, Analytics Warehouse, Automated Data Refreshes, Unified Semantic Model, Role-Based Access Control, Oracle, InterSystems-Iris, WebHRSystems, SAP, Qlik Sense, SAP Analytics Cloud, Excel, Jawda reports, HIPAA, NABH, Total Cost of Ownership (TCO), AI, Machine Learning\n\nTechnology: Microsoft Fabric, Power BI\n\nClient Location: United Arab Emirates

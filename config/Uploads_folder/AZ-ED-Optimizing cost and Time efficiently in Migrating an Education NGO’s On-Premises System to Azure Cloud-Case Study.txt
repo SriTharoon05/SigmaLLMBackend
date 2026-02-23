@@ -1,0 +1,14 @@
+Case Study Name: AZ-ED-Optimizing cost and Time efficiently in Migrating an Education NGO’s On-Premises System to Azure Cloud-Case Study\n\nCase Study Details:\n\nIndustry: Non-Governmental Organization (NGO)\n\nChallenges: - High maintenance costs of on-premises system
+- Inability to handle large amounts of data
+- Low response time and high latency affecting performance
+- Issues with data scalability and geo-replication
+- Limited access to data\n\nSolution: - Conducted a comprehensive Azure cloud migration
+- Migrated storage space, file formats, databases, and application servers to the cloud
+- Implemented Azure SQL database and Azure Blob storage for data handling
+- Utilized Azure web app and API services for improved functionality
+- Employed Azure application gateway and web application firewall for security
+- Integrated additional Azure services like Azure web jobs and Azure functions\n\nSolution Benefits: - Significant cost savings of nearly 20% over four years
+- Improved data management at lower costs
+- Enhanced access to applications globally
+- Greater flexibility, security, availability, and scalability
+- Simplified management and monitoring of operations\n\nKey Phrases: Azure cloud migration, Azure SQL database, Azure Blob storage, Azure web app, API services, Azure application gateway, web application firewall, Azure web jobs, Azure functions, pay-as-you-go pricing model, 20% cost saving\n\nTechnology: Azure, Azure SQL Database, Azure Blob Storage, Azure Web App, Azure API Services, Azure Application Gateway, Azure Web Application Firewall, Azure Web Jobs, Azure Functions\n\nClient Location: Kenya

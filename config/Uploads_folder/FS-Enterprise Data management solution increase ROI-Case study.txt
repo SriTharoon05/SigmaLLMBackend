@@ -1,0 +1,7 @@
+Case Study Name: FS-Enterprise Data management solution increase ROI-Case study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Lack of enterprise view leading to a 'spaghetti model' of data.
+- Siloed operations causing inefficiencies and hindering communication.
+- Lack of time and resources to implement an Enterprise Data Management system.\n\nSolution: - Collaborated with UB Technology Innovations to reengineer the legacy data repository.
+- Set up a new, efficient Enterprise Data Management system tailored to the client's needs.
+- Improved structure for querying, reporting, and analyzing data.\n\nSolution Benefits: - Improved access to relevant data and reduced turnaround time.
+- Increased ROI by reducing costs and boosting efficiency.
+- Enabled in-house technology team to focus on transformational projects with 24/7 support.\n\nKey Phrases: Enterprise Data Management, ROI, data quality, data security, cross-department communication, UBTI, flexible structure, streamlined data management, production support.\n\nTechnology: Microsoft, UBTI\n\nClient Location: Southern California

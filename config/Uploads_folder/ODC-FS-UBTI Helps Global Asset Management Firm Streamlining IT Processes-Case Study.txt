@@ -1,0 +1,13 @@
+Case Study Name: ODC-FS-UBTI Helps Global Asset Management Firm Streamlining IT Processes-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Rapid business growth leading to IT department struggles
+- Increasing demand for development, operations, and QA resources
+- Project backlogs and missed delivery deadlines
+- Inability to focus on development and innovation initiatives
+- Scattered data across multiple sources in different formats\n\nSolution: - Deployment of a dedicated team for customized IT solutions
+- Data integration and migration to a central repository
+- Creation of daily customized reports for improved analytics
+- Independent validation and verification (IV&V) for efficient testing
+- Operation support and monitoring during off-hours\n\nSolution Benefits: - 80% reduction in IT project backlogs within three years
+- 60% savings on IT expenditures in three years
+- Improved productivity through automation of IT tasks
+- Greater focus on core activities like asset management and client service
+- Lower overhead costs due to increased efficiency and reduced risk\n\nKey Phrases: cloud data analytics, Azure infra, app migration, modernization, no/low-code solutions, virtual bots, RPA, automation, customized reporting, independent validation & verification, zero-defect testing, operation support, monitoring, IT project backlogs, IT expenditures, productivity, core activities, overhead costs\n\nTechnology: Azure, Power Platform, Data Integration & Migration, Customized Reporting, IV&V, RPA\n\nClient Location: Anaheim, CA

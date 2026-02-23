@@ -1,0 +1,10 @@
+Case Study Name: PBI-HC-7 Hospitals, 900 Beds, 1 Elegant Data and Reporting Platform-Case Study\n\nCase Study Details:\n\nIndustry: Healthcare\n\nChallenges: - Each hospital used a different reporting platform.
+- Multiple data sources.
+- Inconsistent data formats.
+- Inability to consolidate and automate reports, leading to excessive manual work.\n\nSolution: - Replicated, consolidated, and automated existing reports in Power BI.
+- Developed operations reports for one hospital as a proof of concept.
+- Engaged to develop reports for all business aspects across seven hospitals.\n\nSolution Benefits: - Reduced inefficiency in report generation.
+- Enhanced productivity through automation.
+- Improved service delivery with consolidated data.
+- Reduced operational costs by minimizing manual reporting efforts.
+- Improved time to market for reporting.\n\nKey Phrases: Power BI, healthcare KPIs, patient days, LOS, Case Mix Index (CMI), LWOBS, admissions, paramedic runs, diversion hours, payor mix, DNFB, patient revenue, CAUTI, grants and government subsidies, operating income, capitation revenue, satisfaction score.\n\nTechnology: Power BI\n\nClient Location: USA

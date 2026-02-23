@@ -1,0 +1,9 @@
+Case Study Name: RJ-FS-Building React JS-Based UI for Analytics-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Demand for React JS expertise
+- Need for a flexible vendor to develop only the front-end\n\nSolution: - Engaged UBTI for independent testing of OMS and in-house application
+- Conducted training sessions on OMS and client requirements
+- Performed manual and automation testing for each release
+- Built a repository of over 3000+ test cases\n\nSolution Benefits: - Achieved 20+ successful releases
+- Reduced turnaround time for regression testing
+- Flexibility to ramp up/down resources on demand
+- Time and cost savings
+- Higher cost efficiency\n\nKey Phrases: React JS, asset management, Order Management Process, automation testing, regression testing, 3000+ test cases, 20+ successful releases, time & cost savings, cost efficiency\n\nTechnology: React JS, Python, JSON\n\nClient Location: Connecticut

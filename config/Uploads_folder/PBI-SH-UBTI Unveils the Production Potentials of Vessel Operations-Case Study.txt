@@ -1,0 +1,10 @@
+Case Study Name: PBI-SH-UBTI Unveils the Production Potentials of Vessel Operations-Case Study\n\nCase Study Details:\n\nIndustry: Shipping and Logistics\n\nChallenges: - Lack of tracking for vessel productivity
+- Inability to assess operational performance against targets
+- Poor vessel management at terminals
+- Need for an efficient reporting system to analyze operational factors\n\nSolution: - Implemented Power BI to analyze factors contributing to vessel movement
+- Integrated with Terminal Operating System (TOS) for detailed productivity breakdown
+- Developed analytical dashboards for weekly, monthly, and daily vessel production
+- Enhanced tracking of vessel moves to understand workflows better\n\nSolution Benefits: - Improved traceability and control over vessel moves
+- Gained real-time insights into shipping processes
+- Mitigated operational risks by anticipating delays
+- Reduced turnaround times and optimized resource utilization\n\nKey Phrases: Power BI, Terminal Operating System (TOS), vessel productivity, operational performance, analytical dashboards, real-time insights, operational risks, lean management, supply chain\n\nTechnology: Power BI\n\nClient Location: United States

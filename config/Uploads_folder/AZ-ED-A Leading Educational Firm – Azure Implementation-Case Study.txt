@@ -1,0 +1,20 @@
+Case Study Name: AZ-ED-A Leading Educational Firm – Azure Implementation-Case Study\n\nCase Study Details:\n\nIndustry: Education\n\nChallenges: - Data storage leading to localized data availability limiting global reach.
+- Access provisioned through tunnels and private networks risking data outages.
+- High maintenance of server and network.
+- Continuous upgrades needed for optimal application usage and performance.
+- Low availability and cumbersome disaster recovery.
+- Lack of backup and limited security.
+- Expensive geo-replication of data.\n\nSolution: - Migrated application server, database server, and file server to Azure cloud.
+- Developed Azure Web App and API service for global availability of student information.
+- Utilized Azure SQL database for backend data storage.
+- Employed Azure BLOB storage for maintaining files and reports.
+- Used Azure Web Jobs for data load operations and communication.
+- Implemented Azure function (Event Grid) for payment request handling.
+- Ensured integrated security and load balancing with Azure Application Gateway.
+- Provisioned DEV, QA, UAT & PROD environments with necessary Azure services.\n\nSolution Benefits: - Effective cost management with lower capital costs compared to On-Premise setup.
+- Enhanced security with Azure Active Directory for identity and access management.
+- Reduced maintenance costs and turnaround time for infrastructure upgrades.
+- Automated data backup and recovery managed by Azure.
+- Improved application performance with high-performance technologies.
+- Global availability and scalability with analytics and intelligence capabilities.
+- Easier management of multiple environments for development, QA, and production.\n\nKey Phrases: Azure cloud, Azure Web App, API service, Azure SQL database, Azure BLOB storage, Azure Web Jobs, Event Grid, Azure Application Gateway, Identity & Access Management, automated data backup, global availability, scalability, application performance.\n\nTechnology: Azure, Azure SQL Database, Azure BLOB Storage, Azure Web Jobs, Azure Functions, Azure Application Gateway.\n\nClient Location: Kenya

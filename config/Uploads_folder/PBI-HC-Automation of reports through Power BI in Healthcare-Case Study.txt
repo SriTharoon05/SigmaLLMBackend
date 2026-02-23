@@ -1,0 +1,10 @@
+Case Study Name: PBI-HC-Automation of reports through Power BI in Healthcare-Case Study\n\nCase Study Details:\n\nIndustry: Healthcare\n\nChallenges: - Different reporting platforms by each hospital
+- Multiple Data Sources
+- Inconsistent Data Formats
+- Inability to consolidate and automate their reports resulted in excessive hours spent manually addressing inconsistencies\n\nSolution: - Replicate, consolidate, and automate existing reports in a single platform – Power BI
+- Conducted a Proof of Concept (PoC) to develop operations reports for one hospital
+- Developed reports covering essential metrics such as Admissions, Diversion Hours, Case Mix Index (CMI), Patient Days, Paramedic runs, LOS, and LWOBS
+- Supported development of reports for all seven hospitals, handling critical KPIs including Payor Mix, DNFB, Patient Revenue, CAUTI, Grants and Government subsidies, Operating Income, Capitation Revenue and Expenses, Satisfaction Scores\n\nSolution Benefits: - Completed dashboard displays forecasted and actual figures for each KPI
+- Data displayed by month or year-to-date for better visibility
+- Administrators can easily determine if objectives are being met
+- Ability to generate reports within a few clicks\n\nKey Phrases: Power BI, Proof of Concept, Healthcare KPIs, Admissions, Diversion Hours, Case Mix Index (CMI), Patient Days, Paramedic runs, LOS, LWOBS, Payor Mix, DNFB, Patient Revenue, CAUTI, Grants and Government subsidies, Operating Income, Capitation Revenue, Satisfaction Scores\n\nTechnology: Power BI\n\nClient Location: Los Angeles, California

@@ -1,0 +1,12 @@
+Case Study Name: PAT-OI-Implementing End-to-End Asset Management Approval System using Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Food & Beverage\n\nChallenges: - Integration with Legacy Systems
+- Geographical Distribution
+- Manual Verification Errors
+- Incomplete Verification\n\nSolution: - Developed a custom-built Power Apps for asset location visits
+- Integrated Power Apps with the internal seed application for real-time data syncing
+- Implemented an approval workflow for asset information
+- Deployed Power Automate bots for data synchronization\n\nSolution Benefits: - Direct cost savings of $600,000
+- Improved data accuracy
+- Heightened security and compliance
+- Enhanced decision-making through real-time reporting
+- Optimized resource allocation
+- Scalability of the system\n\nKey Phrases: Power Automate, Power Apps, asset management, data synchronization, real-time reporting, compliance checks, operational efficiency, cost savings, resource allocation\n\nTechnology: Power Automate, Power Apps\n\nClient Location: Anaheim, CA

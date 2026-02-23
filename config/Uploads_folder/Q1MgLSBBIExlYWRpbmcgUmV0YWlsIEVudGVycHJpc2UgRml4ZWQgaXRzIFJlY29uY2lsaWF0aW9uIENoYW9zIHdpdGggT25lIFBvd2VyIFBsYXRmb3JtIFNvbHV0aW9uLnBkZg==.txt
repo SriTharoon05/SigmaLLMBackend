@@ -1,0 +1,12 @@
+Case Study Name: Q1MgLSBBIExlYWRpbmcgUmV0YWlsIEVudGVycHJpc2UgRml4ZWQgaXRzIFJlY29uY2lsaWF0aW9uIENoYW9zIHdpdGggT25lIFBvd2VyIFBsYXRmb3JtIFNvbHV0aW9uLnBkZg==\n\nCase Study Details:\n\nIndustry: Retail\n\nChallenges: - Order and Payment Data Mismatch Across Systems
+- Tracking Payments Across Three Different Reports Was Confusing
+- Partial, Split, or Duplicate Payments were Hard to Trace
+- Too Many Manual Steps Involved in Reconciliation Process\n\nSolution: - Automated reconciliation system using Microsoft Power Platform
+- Daily automatic download and combination of reports from Shopify, Matrixify, and Cashfree
+- Mapping of Order IDs and Transaction IDs with logic to handle missing or varied formats
+- Automatic flagging of duplicate, split, and partial payments
+- Real-time alerts for exceptions and failures
+- Use of Excel macros and Microsoft Office add-ins for efficient data handling and scalability\n\nSolution Benefits: - Saved 5 hours daily across operations, totaling 100+ hours monthly
+- Improved accuracy in financial records by reducing errors
+- Faster customer resolution on payment issues through real-time alerts
+- Scalable solution capable of handling growing transaction volumes\n\nKey Phrases: Microsoft Power Platform, Shopify API, Matrixify report, Cashfree report, Order ID, Transaction ID, Python scripts, desktop automation tool, Excel macros, Microsoft Office add-ins, real-time alerts, automated reconciliation, split payments, duplicate payments, partial payments, scalable automation\n\nTechnology: Microsoft Power Platform, Power Automate, Python scripts, Excel macros, Microsoft Office add-ins, desktop automation tools\n\nClient Location: Chennai, India

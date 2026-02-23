@@ -1,0 +1,13 @@
+Case Study Name: PBI-FS- Enhancing Sustainable Investment Decisions with ESG Analytics Dashboard-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Lack of comprehensive risk assessment capabilities
+- Difficulty in evaluating ESG performance of investments
+- Overreliance on traditional financial metrics
+- Incomplete investment decisions due to overlooking non-financial aspects\n\nSolution: - Implemented an ESG Analytics dashboard using Power BI
+- Integrated MSCI ESG data for comprehensive ratings and scores
+- Developed a backend database to store and track ESG metrics
+- Created an intuitive user interface for visualizing ESG data
+- Enabled historical performance tracking of ESG metrics\n\nSolution Benefits: - Successful integration of ESG data into investment decision-making
+- Improved risk management through identification of ESG risks
+- Enhanced sustainability alignment of investment portfolios
+- Increased client engagement with transparent ESG reporting
+- Regular evaluation of ESG performance impacts on financial outcomes
+- Optimized portfolio management incorporating ESG constraints\n\nKey Phrases: ESG Analytics, MSCI ESG data, Power BI, risk management, sustainability goals, portfolio optimization, historical performance evaluation, mean-variance optimization, multi-objective optimization\n\nTechnology: Power BI\n\nClient Location: Anaheim, CA

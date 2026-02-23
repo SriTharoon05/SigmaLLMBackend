@@ -1,0 +1,13 @@
+Case Study Name: PBI-OI-Automated Project Costing Report A Power BI Success Story\n\nCase Study Details:\n\nIndustry: Information Technology\n\nChallenges: - Time-consuming data extraction from multiple sources
+- Labor-intensive data validation processes
+- Manual report preparation and distribution
+- Increased likelihood of errors affecting report reliability
+- Delays in report submission impacting decision-making\n\nSolution: - Automated data integration from Payroll, Timesheet, and Accounting applications
+- Simplified complex calculations and validations
+- Automated generation of Project Costing Reports
+- Comprehensive reporting with categorized insights
+- Scalable solutions for evolving reporting requirements\n\nSolution Benefits: - Increased productivity by up to 30%
+- Elimination of numerical errors through direct data source integration
+- Improved operational efficiency through automation
+- Cost savings by optimizing resource utilization
+- Timely and reliable reporting\n\nKey Phrases: Automated Project Costing Reports, Power BI, data integration, complex calculations, real-time visibility, profitability statements, operational efficiency, cost reduction, Microsoft Gold Certified partner\n\nTechnology: Power BI, HRWorks, Tally, In-house Software\n\nClient Location: Anaheim, CA

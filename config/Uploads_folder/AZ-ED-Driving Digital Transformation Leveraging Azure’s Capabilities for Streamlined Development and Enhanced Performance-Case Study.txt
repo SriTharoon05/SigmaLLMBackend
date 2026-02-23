@@ -1,0 +1,9 @@
+Case Study Name: AZ-ED-Driving Digital Transformation Leveraging Azure’s Capabilities for Streamlined Development and Enhanced Performance-Case Study\n\nCase Study Details:\n\nIndustry: Technology Solutions and Cloud Services\n\nChallenges: - Cosmos DB limitations affecting multi-region writes and scalability.
+- Lack of location-based access controls hindering performance and targeted services.\n\nSolution: - Integrated Azure Front Door to replace Application Gateway for improved web application development.
+- Established separate QA and Dev environments in different regions for parallel testing and development.
+- Enabled multi-region writes in Cosmos DB for enhanced scalability and data redundancy.
+- Implemented private and service endpoints for security and CDN for efficient content caching.\n\nSolution Benefits: - Enhanced application testing and development, reducing time-to-market and improving quality.
+- Improved security and reliability through private endpoints and Azure Front Door.
+- Increased availability and performance with multi-region writes in Cosmos DB.
+- Achieved cost and time savings through optimized resource usage and operational efficiency.
+- Enhanced user experience with faster loading times due to CDN caching.\n\nKey Phrases: Azure Front Door, Cosmos DB, multi-region writes, private endpoints, service endpoints, CDN, cloud data analytics, application testing, user experience, security measures, pay-as-you-go pricing model.\n\nTechnology: Azure, Azure Front Door, Cosmos DB, CDN\n\nClient Location: Anaheim, CA

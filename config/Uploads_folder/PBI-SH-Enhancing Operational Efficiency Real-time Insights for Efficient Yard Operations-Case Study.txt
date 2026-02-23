@@ -1,0 +1,10 @@
+Case Study Name: PBI-SH-Enhancing Operational Efficiency Real-time Insights for Efficient Yard Operations-Case Study\n\nCase Study Details:\n\nIndustry: Marine Terminal Services\n\nChallenges: - Inadequate transparency reporting for container logistics, resulting in longer dwell times
+- Limited transparency regarding dwell time metrics, impeding effective decision-making
+- Absence of a standardized yard monitoring system, hindering operational efficiency
+- Lack of periodic inventory tracking, preventing accurate inventory management\n\nSolution: - Implemented a yard operations reporting dashboard integrated with Terminal Operating Systems (TOS)
+- Merged data from various systems for real-time access to yard activities, container movements, and inventory levels
+- Tailored reports and dashboards to track essential performance metrics like container dwell time and yard productivity
+- Enabled proactive decision-making and better control over operations\n\nSolution Benefits: - Real-time insights for informed decision-making and increased operational effectiveness
+- Optimized resource allocation leading to cost reductions and increased productivity
+- Enhanced performance tracking to identify bottlenecks and implement improvements
+- Data-driven decision making minimizing risks and maximizing operational efficiency\n\nKey Phrases: Power BI, yard operations reporting dashboard, Terminal Operating System, real-time insights, container dwell time, performance indicators, SQL Data Warehouse, resource allocation, data-driven decision making\n\nTechnology: Power BI, SQL Data Warehouse\n\nClient Location: Anaheim, CA

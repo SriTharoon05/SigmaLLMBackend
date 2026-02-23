@@ -1,0 +1,12 @@
+Case Study Name: PBI-NG-Power BI Empowers Child Sponsorship Organizations to Enhance Data Management and Workflow Efficiency-Case Study\n\nCase Study Details:\n\nIndustry: Non-Governmental Organization\n\nChallenges: - Lack of comprehensive approach in child sponsorship team
+- Validation issues with website data causing bottlenecks
+- Absence of detailed insights impacting transparency and accountability
+- Difficulties in evaluating employee performance due to lack of tracking mechanisms
+- Inefficient resource allocation from lack of data-driven decision-making
+- Hindered ability to provide a seamless experience for sponsors\n\nSolution: - Utilized Power BI for data visualization and business intelligence
+- Developed a Power BI report to provide insights into gift workflow
+- Tracked various aspects such as number of gifts, time of delivery, and workflow stages
+- Collaborated closely with the child sponsorship team for implementation\n\nSolution Benefits: - Streamlined workflow and boosted turnaround time
+- Enhanced transparency and performance monitoring
+- Optimized resource allocation through data-driven decision-making
+- Improved management precision with quantifiable tasks and goals\n\nKey Phrases: Power BI, data visualization, business intelligence, gift workflow, resource optimization, performance monitoring, data-driven decision-making, operational efficiency\n\nTechnology: Power BI\n\nClient Location: Nairobi

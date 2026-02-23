@@ -1,0 +1,14 @@
+Case Study Name: PAP-MF-UBTI Modernizes Project Management\n\nCase Study Details:\n\nIndustry: Steel Manufacturing\n\nChallenges: - Lack of centralized visibility across projects and programs
+- No structured approach to task assignments
+- Inconsistent workflows across departments
+- Limited analytical capabilities\n\nSolution: - Developed a model-driven Power Apps PMO tool
+- Integrated Microsoft Planner and Power Automate
+- Created a modular structure with custom tabs
+- Implemented a structured project lifecycle with distinct phases
+- Linked task assignments to Microsoft Planner
+- Enabled multi-role collaboration with stakeholder tagging
+- Enhanced specific functions using embedded JavaScript code\n\nSolution Benefits: - Generated over 33 unique business reports
+- Provided centralized project oversight
+- Accelerated approvals and task execution
+- Enhanced accountability for tasks
+- Offered scalable architecture for enterprise-wide adoption\n\nKey Phrases: Power Apps, Microsoft Planner, Power Automate, project management, project lifecycle, task assignments, stakeholder tagging, JavaScript integration, business reports, project oversight, automated notifications, scalable architecture\n\nTechnology: Power Apps, Microsoft Planner, Power Automate\n\nClient Location: UAE

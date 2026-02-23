@@ -1,0 +1,9 @@
+Case Study Name: AZ-AU -An Automotive company gets Interactive App for check and service request-Case Study\n\nCase Study Details:\n\nIndustry: Automotive\n\nChallenges: - Latency and performance issues due to wide geographical presence.
+- Need for accurate health reports on millions of vehicles.
+- Inefficient management of service requests and customer queries.\n\nSolution: - Modernized the mobile app architecture for better management of automotive health and service requests.
+- Implemented Azure cloud services to enhance data retrieval and reduce latency.
+- Enabled two-way communication through the app for customer queries and information delivery.\n\nSolution Benefits: - Achieved global availability and improved application speed.
+- Enhanced data flexibility and consistent data quality with Azure Cosmos DB.
+- Improved API administration and query handling with Azure API management.
+- Increased data security with Azure Key Vault and Network Security Group.
+- Enabled vehicle owners to receive timely notifications and service requests through the app.\n\nKey Phrases: Azure Cosmos DB, Azure cloud services, two-way communication, predictive maintenance, service requests, data security, API management, Logic Apps, Service Fabric, Functions, Blob Storage, Load balancer, vehicle health report.\n\nTechnology: Azure Cosmos DB, Azure API Management, Azure Key Vault, Azure Network Security Group, Logic Apps, Service Fabric, Azure Functions, Blob Storage, Load Balancer.\n\nClient Location: Anaheim, CA

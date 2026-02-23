@@ -1,0 +1,16 @@
+Case Study Name: PAP&PAT-CN-Improving Delivery Times and Productivity using Microsoft Power Apps & Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Construction\n\nChallenges: - Heavy reliance on Excel spreadsheets and template-based processes
+- Tedious and repetitive manual Extra Purchase Order’s (EPO) creation leading to project delays
+- Manual management of different templates for different EPO processes
+- High lead time for approval process causing delays
+- Inability to track and monitor purchase orders once submitted
+- Manual update required of the HSP legacy system once EPO was approved
+- Administrative delays due to lack of available staff and resources\n\nSolution: - Designed, developed, and implemented an Extra Purchase Order (EPO) Automation solution using Microsoft Power Apps and Power Automate (RPA)
+- Automated data retrieval from the legacy AS/400-based HSP system
+- Implemented robotic keystrokes for reinputting details in the HSP legacy system
+- Created customizable EPO request forms and approval processes
+- Integrated with HSP legacy application for accounting continuity
+- Developed automated approval process notifications\n\nSolution Benefits: - Reduced time for manual entry and processing of EPOs by up to 50%
+- Enhanced visibility into Purchase Orders, improving tracking and approval times
+- Provided real-time status updates on Purchase Orders from various vendors
+- Improved human resource allocation, allowing administrative staff to prioritize additional tasks
+- Reduced labor costs by avoiding overtime accrual\n\nKey Phrases: Extra Purchase Order (EPO), Microsoft Power Apps, Microsoft Power Automate, RPA, AS/400, HSP legacy system, automated approval workflows, real-time status updates, labor cost reduction, operational efficiency\n\nTechnology: Microsoft Power Apps, Microsoft Power Automate, Microsoft Power BI, Microsoft Power Virtual Agents\n\nClient Location: Texas

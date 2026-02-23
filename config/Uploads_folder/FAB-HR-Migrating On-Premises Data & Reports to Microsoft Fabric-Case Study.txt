@@ -1,0 +1,18 @@
+Case Study Name: FAB-HR-Migrating On-Premises Data & Reports to Microsoft Fabric-Case Study\n\nCase Study Details:\n\nIndustry: Workforce Solutions\n\nChallenges: - Siloed data across on-premises systems, SSAS Cubes, and spreadsheets.
+- Complicated and time-consuming reporting processes using legacy systems like SSAS and SSRS.
+- Limited visibility and slow reporting, raising accuracy concerns.
+- Inability to perform advanced analytics effectively, including AI and ML activities.
+- Concerns about data governance.\n\nSolution: - Migrated data environment to Microsoft Fabric to overcome data silos.
+- Integrated data from on-premises SQL Server and SSAS to Fabric Onelake using Dataflow Gen 2.
+- Developed a robust data pipeline for daily and hourly data loads.
+- Migrated existing Power BI reports and reengineered SSRS reports to Power BI in Microsoft Fabric.
+- Established daily email subscriptions for automated report delivery.
+- Implemented a comprehensive data governance framework using Microsoft Purview.
+- Configured user-specific access controls for data and reports.
+- Developed machine learning models for sales forecasting, sentiment analysis, and customer churn reporting.\n\nSolution Benefits: - Eliminated data silos by consolidating information into a single repository.
+- Enhanced reporting capabilities with advanced analytics and visualization features.
+- Facilitated dynamic reporting accessible to authorized users.
+- Ensured data accuracy and consistency with built-in security features.
+- Improved data governance with access controls and data lineage.
+- Provided scalable architecture for future data growth.
+- Empowered data-driven decision-making through advanced analytics solutions.\n\nKey Phrases: Microsoft Fabric, Dataflow Gen 2, Power BI, SSRS, Data Governance, Microsoft Purview, Machine Learning, Sales Forecasting, Sentiment Analysis, Customer Churn Reporting, Data Quality Rules, Elastic Compute, Data Integration, Reporting Automation.\n\nTechnology: Microsoft Fabric, Power BI, Dataflow Gen 2, Microsoft Purview, SQL Server, SSAS, SSRS.\n\nClient Location: Anaheim, CA

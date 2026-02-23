@@ -1,0 +1,14 @@
+Case Study Name: Q1MgLSBBZ2VudGljIEFJIEF1dG9tYXRpb24gVHVybnMgQ2x1dHRlcmVkIEVtYWlscyBpbnRvIGEgS25vd2xlZGdlIEJhc2UgaW4gQ29waWxvdCBTdHVkaW8gdXNpbmcgUG93ZXIgQXV0b21hdGUucGRm\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Too many emails scattered everywhere with key updates
+- Manual downloading and filing of email attachments daily
+- Slow and frustrating search for specific data in inbox
+- No backup if someone missed or lost a file
+- Valuable email body content often ignored\n\nSolution: - Implemented Power Automate flow to monitor incoming emails in real time
+- Automatically converted email body and attachments to PDF
+- Uploaded PDFs to a Knowledge Base linked to a Copilot Studio agent (bot)
+- Embedded the bot in Microsoft Teams for easy staff access
+- Used OCR to extract text from images and tables in emails\n\nSolution Benefits: - AI bot delivered over 95% accuracy in responses
+- Instant access to information without manual searching
+- Complete capture of all email content including attachments and body text
+- Eliminated manual downloading, filing, and searching tasks
+- Seamless integration with Microsoft Teams requiring no new user training
+- Citations included with every bot response for source verification\n\nKey Phrases: Power Automate, Copilot Studio, Agentic AI, Microsoft Teams app, OCR (Optical Character Recognition), HTML to PDF Utility, Outlook Connector, AI bot accuracy over 95%, Knowledge Base, email automation, asset management, AUM (Assets Under Management)\n\nTechnology: Power Automate, Copilot Studio, Microsoft Teams, OCR, Outlook Connector, HTML to PDF Utility\n\nClient Location: United States

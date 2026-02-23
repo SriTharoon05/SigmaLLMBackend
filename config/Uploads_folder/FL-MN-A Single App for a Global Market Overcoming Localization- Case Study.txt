@@ -1,0 +1,12 @@
+Case Study Name: FL-MN-A Single App for a Global Market Overcoming Localization- Case Study\n\nCase Study Details:\n\nIndustry: Automotive\n\nChallenges: - Fragmented app ecosystem with separate applications for different regions and vehicle types.
+- Difficulty in providing a unified and seamless user experience.
+- Need for a technically adept partner for app development.\n\nSolution: - UBTI filled resource gaps, allowing for flexible scaling of the development team.
+- Implemented best practices for mobile development, including tools like Sonarqube for code quality and automated testing.
+- Developed a single, global app solution through localization and feature-based development.
+- Provided analytics for informed decision-making regarding app optimization.
+- Adopted standard development practices like SOLID principles and Agile Scrum methodology.
+- Optimized workflows using tools like Figma and implemented CI/CD for efficiency.\n\nSolution Benefits: - Enhanced customer engagement and satisfaction through improved Connected Cars experience.
+- Robust and scalable app development foundation for future growth.
+- Streamlined operations with reduced development backlogs and bugs.
+- Unified platform providing a consistent user experience for global customers.
+- Cost savings and resource efficiency by leveraging UBTI's development resources.\n\nKey Phrases: Connected Car Experience, Flutter framework, mobile app development, Sonarqube, Agile Scrum, CI/CD, localization, feature-based development, data-driven decisions, SOLID principles, customer engagement, cost efficiency.\n\nTechnology: Flutter, Sonarqube, Figma, CI/CD\n\nClient Location: Anaheim, CA

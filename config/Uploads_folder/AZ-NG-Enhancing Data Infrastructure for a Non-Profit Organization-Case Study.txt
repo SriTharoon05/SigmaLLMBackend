@@ -1,0 +1,7 @@
+Case Study Name: AZ-NG-Enhancing Data Infrastructure for a Non-Profit Organization-Case Study\n\nCase Study Details:\n\nIndustry: Non-Profit Organization\n\nChallenges: - Cosmos DB limitations affecting multi-region writes and scalability.
+- Lack of location-based access controls hindering performance and targeted services.\n\nSolution: - Transitioned from SharePoint lists to Azure SQL as the new data source.
+- Migrated daily data load processes to Azure SQL using Azure Data Factory.
+- Eliminated batch processing for more efficient data retrieval.\n\nSolution Benefits: - Enhanced speed and minimal downtime for quick decision-making.
+- Cost-effective data migration with optimized resource allocation.
+- Improved availability and scalability for future growth.
+- High-performance in-memory technologies and intelligent query processing for efficient data retrieval.\n\nKey Phrases: Azure SQL, Cosmos DB, Azure Data Factory, data migration, in-memory technologies, intelligent query processing, high availability, scalability, non-profit organization, cloud data analytics.\n\nTechnology: Azure SQL, Azure Data Factory, Azure Blob Storage, Azure Logic Apps, SharePoint\n\nClient Location: Indianapolis

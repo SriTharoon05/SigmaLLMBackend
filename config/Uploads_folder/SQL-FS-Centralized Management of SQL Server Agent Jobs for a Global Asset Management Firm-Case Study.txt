@@ -1,0 +1,16 @@
+Case Study Name: SQL-FS-Centralized Management of SQL Server Agent Jobs for a Global Asset Management Firm-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Manual connection to individual servers for job execution and monitoring
+- Lack of centralized control and visibility
+- Time-consuming and error-prone job creation and replication
+- Difficulty in configuring user rights and access controls
+- Lack of real-time insights into job status
+- Longer debugging times leading to decreased productivity\n\nSolution: - Developed an intuitive Angular web application for centralized job management
+- Provided a user-friendly interface for job configuration and monitoring
+- Included a detailed log for troubleshooting job failures
+- Enabled single-click identification of job failure causes
+- Simplified rerunning of past/failed jobs
+- Allowed easy configuration of user rights and groups\n\nSolution Benefits: - 80% improvement in addressing job failures
+- Increased productivity due to on-time data loads
+- 50% reduction in turnaround time for job configuration
+- Eliminated need for users to log into SQL Server
+- Easy monitoring and status tracking of job environment
+- Simplified management of jobs across multiple instances\n\nKey Phrases: SQL Server Agent Jobs, Angular web application, centralized portal, job configuration, monitoring, troubleshooting, user rights, user groups, job failures, productivity, turnaround time, data load\n\nTechnology: Angular, SQL Server\n\nClient Location: Anaheim, CA

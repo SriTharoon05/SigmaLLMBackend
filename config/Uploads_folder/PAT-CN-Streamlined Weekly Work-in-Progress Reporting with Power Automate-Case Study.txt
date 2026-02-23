@@ -1,0 +1,13 @@
+Case Study Name: PAT-CN-Streamlined Weekly Work-in-Progress Reporting with Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Construction\n\nChallenges: - Time-consuming manual process for generating WIP Report
+- High potential for errors in data manipulation and calculations
+- Inflexibility and lack of responsiveness to changes in data sources or reporting requirements
+- Resource-intensive workflow impacting payroll accuracy and timeliness\n\nSolution: - Implemented automation using Power Automate
+- Automated data extraction from 'QTools' based on date filters
+- Exported data into Excel for cleaning and filtering
+- Accessed reports using 'ComputerEase' connector for WIP calculations
+- Employed Power Automate's 'Excel' connector for report formatting
+- Automated email distribution of WIP reports\n\nSolution Benefits: - Faster and more consistent WIP Report process
+- Enhanced data accuracy and minimized errors
+- Timely availability of accurate reports to stakeholders
+- Optimized human resources for strategic tasks
+- 55% reduction in direct costs and significant indirect cost savings\n\nKey Phrases: Power Automate, WIP Report, data extraction, data manipulation, Excel, ComputerEase, automated distribution, error minimization, resource optimization, cost savings\n\nTechnology: Power Automate, Excel, ComputerEase, Outlook\n\nClient Location: Anaheim, CA

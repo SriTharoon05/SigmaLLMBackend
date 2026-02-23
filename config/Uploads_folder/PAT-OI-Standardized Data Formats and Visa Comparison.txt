@@ -1,0 +1,16 @@
+Case Study Name: PAT-OI-Standardized Data Formats and Visa Comparison\n\nCase Study Details:\n\nIndustry: Workforce Outsourcing and Recruitment\n\nChallenges: - Inefficiencies in comparing visa balances
+- Excel performance bottlenecks with up to 90,000 records
+- Complex formula maintenance consuming excessive time
+- Inconsistent data formatting leading to frequent rework
+- Slow data extraction taking over 6 minutes per file
+- Language mismatches causing comparison errors\n\nSolution: - Replaced volatile formulas with optimized functions
+- Implemented data validation rules to highlight discrepancies
+- Used TRIM and SUBSTITUTE functions to eliminate formatting errors
+- Automated data comparisons using macros
+- Processed 100+ debit numbers per minute with VBA logic
+- Added a lookup file for multilingual term matching\n\nSolution Benefits: - Reduced visa comparison time from hours to 20-25 minutes
+- Resolved inconsistencies in occupation and nationality fields
+- Decreased visa record extraction time from 6 minutes to 60 seconds
+- Eliminated manual effort for data comparisons
+- Ensured real-time, accurate visa balance tracking
+- Saved 4 full-time employee efforts and achieved $250K in annual cost savings\n\nKey Phrases: Power BI, automation, data validation, TRIM, SUBSTITUTE, VBA, SQL queries, real-time data visibility, multilingual comparisons, ISO 9001:2015, $250K annual cost savings\n\nTechnology: Power Automate\n\nClient Location: Saudi Arabia

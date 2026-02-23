@@ -1,0 +1,13 @@
+Case Study Name: PAT-OI-Streamlining Material Take-Off (MTO) Approval Processes Using Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Consumer Goods and Beverages\n\nChallenges: - Inconsistent Approval Processes
+- Discrepancies in Approval Standards
+- Delayed Approvals
+- Lack of Transparency
+- Coordination Difficulties
+- Error-Prone Processes\n\nSolution: - Automated Notification System using Power Automate
+- Sequential Approval Workflow
+- Standardized MTO Approval Procedures\n\nSolution Benefits: - Time Minimization, saving up to 80 hours per approval
+- Improved Operational Efficiency
+- Enhanced Consistency
+- Strengthened Stakeholder Collaboration
+- Increased Accountability
+- Reduced Errors\n\nKey Phrases: Power Automate, Material Take-Off (MTO), automated notification system, sequential approval workflow, standardized procedures, operational efficiency, 80 hours saved\n\nTechnology: Power Automate\n\nClient Location: Anaheim, CA

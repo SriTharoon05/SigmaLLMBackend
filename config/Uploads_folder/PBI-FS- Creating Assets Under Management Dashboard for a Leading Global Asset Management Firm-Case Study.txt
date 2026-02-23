@@ -1,0 +1,10 @@
+Case Study Name: PBI-FS- Creating Assets Under Management Dashboard for a Leading Global Asset Management Firm-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Data Integration from various sources
+- Customization for different stakeholder needs
+- Data Security and compliance with regulations\n\nSolution: - Developed a robust AUM dashboard solution
+- Implemented automated data integration system
+- Designed a modular dashboard for user customization
+- Established robust security measures including role-based access controls and encryption
+- Created a centralized data warehouse for a single source of truth\n\nSolution Benefits: - Enhanced decision-making with real-time insights
+- Improved operational efficiency through automation
+- Customized reporting for different stakeholders
+- Ensured regulatory compliance and data protection\n\nKey Phrases: AUM dashboard, data integration, customizable views, role-based access controls, GDPR compliance, operational efficiency, real-time insights, automated data integration, centralized data warehouse\n\nTechnology: Microsoft Power Platform\n\nClient Location: Anaheim, CA

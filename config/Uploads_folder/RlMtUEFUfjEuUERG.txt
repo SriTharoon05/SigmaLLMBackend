@@ -1,0 +1,15 @@
+Case Study Name: RlMtUEFUfjEuUERG\n\nCase Study Details:\n\nIndustry: Accounting and Financial Services\n\nChallenges: - Manual data collection and entry from emails was slow and error-prone
+- Tedious manual extraction and preparation of data from various formats
+- Frequent data discrepancies and mismatches between bank and client records
+- Delayed and inefficient manual report generation
+- Difficulty tracking negative adjustments in transactions
+- Scattered transactional data storage causing retrieval and processing inconsistencies\n\nSolution: - Automated email processing and data extraction using Microsoft Power Automate
+- Bulk data insertion from Excel files into MySQL tables for accuracy and audit trails
+- Automated multi-bank reconciliation workflow powered by Power BI
+- Daily Power BI reports providing near real-time visibility of transactions
+- Proactive error detection and tracking of negative value adjustments
+- Standardized folder structure mirroring OneDrive for consistent file management\n\nSolution Benefits: - Drastically reduced manual errors and duplication, improving audit trust
+- Verification process accelerated from hours to minutes enabling faster book closures
+- Instant access to past transaction records for audits and compliance
+- Automatic categorization and prioritization of discrepancies for timely resolution
+- Scalable solution handling reconciliation across six banks and approx. 3GB data per year\n\nKey Phrases: Power Automate, Power BI, MySQL, bank reconciliation, automated email processing, bulk data insertion, multi-bank reconciliation workflow, daily Power BI reports, negative value adjustments, standardized folder structure, audit evidence, transaction trends, 3GB data per year, six banks\n\nTechnology: Power Automate, Power BI, MySQL, OneDrive\n\nClient Location: Bangalore, India

@@ -1,0 +1,34 @@
+backend/agent2.py
+backend/agent.py
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+media/
+staticfiles/
+ 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+ 
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+ 
+# Environment variable files
+.DS_Store
+.env
+.env.*
+ 
+ 
+# VSCode settings
+.vscode/
+ 
+# Pytest cache
+.pytest_cache/

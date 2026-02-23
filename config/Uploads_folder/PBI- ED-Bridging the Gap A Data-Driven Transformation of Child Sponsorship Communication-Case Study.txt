@@ -1,0 +1,13 @@
+Case Study Name: PBI- ED-Bridging the Gap A Data-Driven Transformation of Child Sponsorship Communication-Case Study\n\nCase Study Details:\n\nIndustry: Non-Governmental Organization\n\nChallenges: - Message Security: Ensuring sensitive content was filtered from communications.
+- Message Tracking: Difficulty in monitoring message delivery status.
+- Data-Driven Insights: Inefficient analysis of communication metrics.
+- User-Friendly Interface: Lack of clarity in the message management platform.
+- Workflow Visibility: No insights into message handling bottlenecks.\n\nSolution: - Implemented a comprehensive messaging system integrated with Power BI.
+- Designed a structured message flow for the Customer Support (CS) team.
+- Created a Message Tracker Dashboard with color coding for message status.
+- Developed an advanced data analytics platform using Power BI for actionable insights.
+- Integrated KPIs to measure message handling times and identify bottlenecks.\n\nSolution Benefits: - Enhanced Communication Security: Filtered inappropriate content for safe communication.
+- Data-Driven Insights: Enabled informed decision-making based on real-time analytics.
+- Operational Efficiency: Streamlined CS team's workflow for high-priority communications.
+- End-to-End Visibility: Provided clear insights into workflow and bottlenecks.
+- Timely Approvals: Improved response times through analysis of delays.\n\nKey Phrases: Power BI, message flow management, message tracker dashboard, advanced data analytics, KPIs, communication trends, operational efficiency, communication security, timely approvals, workflow insights.\n\nTechnology: Power BI\n\nClient Location: Nairobi, Kenya

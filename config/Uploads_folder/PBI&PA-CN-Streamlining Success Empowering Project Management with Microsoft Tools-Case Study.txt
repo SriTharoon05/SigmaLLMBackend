@@ -1,0 +1,15 @@
+Case Study Name: PBI&PA-CN-Streamlining Success Empowering Project Management with Microsoft Tools-Case Study\n\nCase Study Details:\n\nIndustry: Construction\n\nChallenges: - Limited data analysis capabilities
+- Data fragmentation across different segments
+- Ineffective tracking and monitoring of project progress
+- Reporting bottlenecks requiring manual data extraction and formatting
+- Outdated analysis hindering informed decision-making about project budgets
+- Risk of project management issues affecting overall project effectiveness
+- Delays and inaccuracies in sharing critical project information with stakeholders\n\nSolution: - Integrated Power BI with the client's Pro Contractor application for consolidated project data analysis
+- Utilized Power Apps for actionable intelligence and real-time interactions among project statuses
+- Created a comprehensive project overview enriched with actionable information
+- Implemented paginated reports for organized data display and easy PDF conversion
+- Centralized project data to eliminate fragmentation and simplify data administration
+- Transformed Smartsheets into Power BI reports for improved stakeholder access to project insights\n\nSolution Benefits: - Advanced project analytics enabling deeper insights into project performance and budget variations
+- Centralized data management reducing fragmentation and simplifying access to information
+- Instantaneous collaboration among project stakeholders enhancing project agility
+- Improved readability and usability of reports through standardized paginated reporting\n\nKey Phrases: Power BI, Power Apps, project management, data analysis, project tracking, reporting bottlenecks, actionable intelligence, paginated reports, centralized data management, real-time collaboration, project performance, budget analytics\n\nTechnology: Power BI, Power Apps, Power Automate, Microsoft Power Virtual Agents\n\nClient Location: California

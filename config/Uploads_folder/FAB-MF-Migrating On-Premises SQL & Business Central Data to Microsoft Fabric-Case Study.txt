@@ -1,0 +1,18 @@
+Case Study Name: FAB-MF-Migrating On-Premises SQL & Business Central Data to Microsoft Fabric-Case Study\n\nCase Study Details:\n\nIndustry: Dental Equipment Manufacturing\n\nChallenges: - Data Silos: Fragmented data environment with five servers and eight databases.
+- Inefficient Reporting: Performance limitations in real-time analytics due to reliance on Power BI, SQL Server, and Business Central.
+- Data Governance & Scalability Issues: Struggled with scalability and lacked efficient data governance.
+- Limited Data Science Implementation: No framework for utilizing predictive analytics or machine learning.\n\nSolution: - Data Integration: Integrated data from on-premises SQL Server and Business Central to Microsoft Fabric using Data Pipelines, Notebooks, and Dataflows Gen 2.
+- Data Pipeline Development: Designed pipelines for daily and hourly data loads.
+- Real-Time Alerts: Configured Data Activator for automated alerts on case creation.
+- Power BI Reporting: Developed reports using Direct Lake mode in Fabric and set up automated report delivery.
+- Data Science Use Cases: Implemented Notebooks for machine learning models including demand forecasting and customer sentiment analysis.
+- Access Control & Data Security: Configured role-based access control and applied data quality rules.\n\nSolution Benefits: - Eliminates Data Silos: Consolidates data into a secure, unified repository.
+- Streamlined Reporting Enhancement: Enhanced reporting capabilities with advanced analytics.
+- Built-in Security: Ensures data accuracy and consistency.
+- Enhanced Governance: Provides clear audit trails and data lineage.
+- Scalable Architecture: Accommodates future data growth.
+- Advanced Data Science: Delivers advanced analytics solutions for decision-making.
+- Real-Time Alerts: Enhances responsiveness and client satisfaction.
+- Continuous Monitoring & Optimization: Ensures performance as data volumes grow.
+- Operational Efficiency & Scalability: Unifies data and automates processes.
+- Improved Customer Engagement: Streamlines communication and empowers proactive strategies.\n\nKey Phrases: Microsoft Fabric, Data Pipelines, Notebooks, Dataflows Gen 2, Medallion Architecture, Power BI, Direct Lake mode, Data Activator, Machine Learning, Demand Forecasting, Customer Sentiment Analysis, Customer Churn Prediction, Role-Based Access Control, Data Quality Rules, Real-Time Alerts, Sales Analysis Overview Report, Customer Insight Dashboard, Technician Performance Report, Production and Lab Efficiency Dashboard.\n\nTechnology: Microsoft Fabric, Power BI, Data Activator, SQL Server, Business Central, Data Factory, Synapse Data Science, Synapse Data Engineering.\n\nClient Location: Anaheim, CA

@@ -1,0 +1,9 @@
+Case Study Name: FS-Faster and More Flexible Reporting Capabilities-Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Increasing backlog of reporting requests
+- Lack of flexibility in resource management
+- Longer turnaround time for reporting due to technology team focus on enhancements\n\nSolution: - Implemented UBTI's onsite-offshore model
+- Engaged a UBTI Technical Engagement Manager (TEM) onsite
+- Established a dedicated offshore team for reporting needs
+- Adopted a follow-the-sun support model for critical end-of-day requirements\n\nSolution Benefits: - Increased end-user satisfaction with timely and accurate reporting
+- Decreased turnaround time for reports
+- Reduced operational costs
+- Allowed technology team to focus on transformational projects\n\nKey Phrases: report repository, compliance reporting, portfolio analytics, follow-the-sun support model, end-user satisfaction, turnaround time, operational costs, transformational projects\n\nTechnology: UB Technology Innovations\n\nClient Location: United States

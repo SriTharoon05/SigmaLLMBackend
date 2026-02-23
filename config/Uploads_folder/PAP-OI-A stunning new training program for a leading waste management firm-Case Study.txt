@@ -1,0 +1,14 @@
+Case Study Name: PAP-OI-A stunning new training program for a leading waste management firm-Case Study\n\nCase Study Details:\n\nIndustry: Waste Management\n\nChallenges: - Managing the knowledge base of their employees
+- Scheduling training to employees
+- Managing the availability of instructors and trainees
+- Difficulties in tracking the knowledge of their employees\n\nSolution: - Developed an E-learning and training application
+- Built a PowerApps and Microsoft Flow based application
+- Enabled convenient tracking and management of instructors
+- Seamless uploading/viewing of different subjects
+- Implemented training scheduling feature for coordination
+- Set up email notifications and reminders using Microsoft Flow
+- Monitored trainee attendance
+- Provided quick analysis through a dashboard in the reporting module\n\nSolution Benefits: - Clear view and control over the training process
+- Empowered instructors
+- Enhanced engagement for trainees
+- Transformed the training experience\n\nKey Phrases: E-learning, training application, PowerApps, Microsoft Flow, training scheduling, email notifications, trainee attendance monitoring, dashboard reporting\n\nTechnology: PowerApps, Microsoft Flow\n\nClient Location: Anaheim, CA

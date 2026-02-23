@@ -1,0 +1,7 @@
+Case Study Name: PBI-AU-Insightful reporting enables efficient resource Utilization-Case Study\n\nCase Study Details:\n\nIndustry: Manufacturing\n\nChallenges: - Lack of efficiency in manpower allocation
+- High overtime work and absenteeism
+- Ineffective spreadsheet-based reporting lacking in-depth insights\n\nSolution: - Developed interactive dashboards and reports using Power BI
+- Automated updates on key performance indicators (KPIs) including manpower count, overtime, and productivity
+- Replaced manual spreadsheet-based reports with automated solutions\n\nSolution Benefits: - Effective optimization of manpower allocation
+- Reduction in overtime
+- Improved employee satisfaction and reduced attrition rate\n\nKey Phrases: Power BI, interactive dashboards, KPIs, manpower allocation, overtime reduction, productivity insights, automated updates\n\nTechnology: Power BI\n\nClient Location: Anaheim, CA

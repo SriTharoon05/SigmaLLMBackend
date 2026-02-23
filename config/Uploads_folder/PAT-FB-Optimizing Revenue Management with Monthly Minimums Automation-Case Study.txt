@@ -1,0 +1,13 @@
+Case Study Name: PAT-FB-Optimizing Revenue Management with Monthly Minimums Automation-Case Study\n\nCase Study Details:\n\nIndustry: Technology Solutions\n\nChallenges: - Complex Billing Rules
+- Inconsistent Billing
+- Scalability Issues
+- Audit and Compliance Concerns
+- Lack of Real-time Visibility\n\nSolution: - Automated the creation of monthly minimums using Power Apps
+- Implemented an interface for modifying existing monthly minimums
+- Integrated automation with the existing ERP system
+- Developed a solution for dynamic adjustment of monthly minimums
+- Implemented real-time notifications and reporting features\n\nSolution Benefits: - Enhanced Accuracy
+- Improved Efficiency
+- Cost Savings
+- Compliance and Audit Readiness
+- Data Visibility\n\nKey Phrases: Microsoft Power Automate, Microsoft Power Apps, automation, billing cycle, cash flow, regulatory requirements, audit trails, sales performance, monthly minimums\n\nTechnology: Microsoft Power Automate, Microsoft Power Apps\n\nClient Location: Anaheim, CA

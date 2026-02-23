@@ -1,0 +1,13 @@
+Case Study Name: UEFULVJFLUludGVsbGlnZW50IEF1dG9tYXRpb24gSGVscHMgYSBTcGlyaXRzIENvbXBhbnkgUGFyc2UgRW1haWxzLnBkZg==\n\nCase Study Details:\n\nIndustry: Spirits and Beverage Industry\n\nChallenges: - High volume of transactional and operational emails with attachments
+- Manual filtering of emails for relevance consuming majority of team time
+- Manual extraction of information from diverse document formats (PDFs, Excels, CSVs)
+- Manual data entry into database causing delays and errors
+- Lack of system alerts for delays in data updates leading to unnoticed issues\n\nSolution: - Implemented automated workflow using Microsoft Power Automate
+- Used AI Builder for smart email filtering based on subject, sender, domain, and keyword patterns
+- Automated reading and extraction of data from attached documents in various formats
+- Direct data entry into database via built-in connectors eliminating manual input
+- Set up automatic alerts for delays and escalations in data updates within cloud-based data warehouse\n\nSolution Benefits: - Improved data accuracy by reducing human errors
+- Faster decision-making with real-time data updates
+- Enhanced visibility and control through approval alerts for delays
+- Scalable and flexible system adaptable to new email formats and document types
+- Freed up approximately 100+ monthly team hours for higher-value tasks\n\nKey Phrases: Microsoft Power Automate, AI Builder, automated workflow, email parsing, cloud-based data warehouse, built-in connectors, approval alerts, real-time data updates, no/low-code solutions, RPA, data insights, 100+ monthly hours saved\n\nTechnology: Microsoft Power Automate, AI Builder, cloud-based data warehouse\n\nClient Location: San Diego, California

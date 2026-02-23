@@ -1,0 +1,11 @@
+Case Study Name: AZ-OI-Navigating the Data Migration Landscape Our Transition from SAP to Azure Synapse-Case Study\n\nCase Study Details:\n\nIndustry: Cloud Data Analytics\n\nChallenges: - Substantial licensing costs associated with SAP systems
+- Additional administrative work required to manage SAP systems
+- Negative impact on efficiency and profitability
+- Complexity in processes due to SAP user licenses\n\nSolution: - Transition from SAP HANA to Azure Synapse Data Migration
+- Comprehensive data migration project to ensure data integrity
+- Elimination of SAP user license costs
+- Customization of approach to align with existing Azure Synapse Subscription
+- Integration with Power BI for data management and reporting\n\nSolution Benefits: - Significant cost savings from transitioning to Azure Synapse
+- Enhanced operational efficiency and improved data security
+- Access to a modern data platform for future data requirements
+- Boosted business intelligence capabilities through Power BI integration\n\nKey Phrases: SAP, Azure, Synapse, Data Migration, Power BI, Operational Efficiency, Cost Savings, Business Intelligence, Data Security, Modern Data Platform\n\nTechnology: Azure Synapse, Power BI, Azure Data Lake Gen2, SQL pool, Synapse Pipelines\n\nClient Location: Anaheim, CA

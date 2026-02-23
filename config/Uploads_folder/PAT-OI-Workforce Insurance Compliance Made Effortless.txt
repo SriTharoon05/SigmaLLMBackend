@@ -1,0 +1,13 @@
+Case Study Name: PAT-OI-Workforce Insurance Compliance Made Effortless\n\nCase Study Details:\n\nIndustry: Workforce Solutions\n\nChallenges: - Managing thousands of employee records in Excel caused frequent slowdowns and system crashes.
+- Inconsistent records, missing insurance details, and outdated information led to compliance risks.
+- Manual verification of employee IDs was time-consuming, taking up to 1,700 minutes for 850 IDs.
+- Delays in updating insurance records and notifying stakeholders slowed down decision-making.\n\nSolution: - Introduced batch-processing techniques in Excel to segment large datasets.
+- Implemented automated rules for live data validation and exception handling.
+- Developed an AI-based CAPTCHA recognition tool for automated bulk verifications.
+- Scanned records to tag missing or invalid employee IDs for proactive resolution.
+- Built an end-to-end automated workflow with Power Automate for instant updates and alerts.\n\nSolution Benefits: - Automated the entire health insurance verification process, reducing administrative effort.
+- Real-time cross-checking minimized the risk of data discrepancies.
+- AI-driven automation removed human errors in data entry and checks.
+- Saved $250K annually by reducing manual effort and preventing non-compliance fines.
+- Scalable system capable of handling growing employee records without performance issues.
+- Reduced turnaround time for issue resolution and ensured uninterrupted employee benefits.\n\nKey Phrases: health insurance verification, automated data validation, AI-powered CAPTCHA, Power Automate, real-time compliance, data discrepancies, $250K annual savings, scalable system, strategic planning, compliance oversight\n\nTechnology: Power Automate, Excel, AI-based CAPTCHA recognition tool\n\nClient Location: Anaheim, CA

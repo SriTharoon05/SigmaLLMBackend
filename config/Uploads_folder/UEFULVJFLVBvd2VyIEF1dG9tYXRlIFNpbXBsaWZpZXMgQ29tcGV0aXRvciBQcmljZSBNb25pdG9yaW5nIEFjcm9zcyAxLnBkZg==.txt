@@ -1,0 +1,13 @@
+Case Study Name: UEFULVJFLVBvd2VyIEF1dG9tYXRlIFNpbXBsaWZpZXMgQ29tcGV0aXRvciBQcmljZSBNb25pdG9yaW5nIEFjcm9zcyAxLnBkZg==\n\nCase Study Details:\n\nIndustry: Beverage industry, specifically spirits and drink brands\n\nChallenges: - Large number of store links (over 1000) to check manually
+- Each store page had a different design and structure, complicating data collection
+- Multiple product variants per store, with only 7 specific types needed
+- Time-consuming and error-prone manual data gathering process\n\nSolution: - Implemented Microsoft Power Automate with browser automation to extract product data
+- Automated opening of each store link from Excel sheet without human involvement
+- Automated detection and clicking of 'Make this my store' button for location-based pricing
+- Looping through 7 product variants per store to scrape price, title, image URL, and product page link
+- Included random time delays to avoid website blocking and anti-scraping filters
+- Saved collected data as separate Excel files per store for better organization\n\nSolution Benefits: - Significant time savings, reducing days of manual work to minutes
+- Consistently accurate and clean data, avoiding manual errors
+- Data organized and ready for instant price comparison across stores
+- Scalable and repeatable process regardless of number of stores
+- Supported informed pricing strategy decisions with structured, store-wise data\n\nKey Phrases: Microsoft Power Automate, browser automation, competitor price monitoring, 1000+ store links, Excel files, product variants, price scraping, 'Make this my store' button, anti-scraping filters, random time delays, structured data, pricing strategy\n\nTechnology: Microsoft Power Automate, Excel, browser automation\n\nClient Location: Global beverage company, client contact address Anaheim, CA 92806

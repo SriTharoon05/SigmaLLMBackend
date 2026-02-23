@@ -1,0 +1,16 @@
+Case Study Name: UEJJLU5HLU91ciBSZWFsLXRpbWUgRGFzaGJvYXJkIEVuYWJsZXMgQWNhZGVtaWNpYW5zIHRvIFRyYWNrIEZlZSBQYXltZW50cy5wZGY=\n\nCase Study Details:\n\nIndustry: Education and Community Development\n\nChallenges: - No unified view of paid and pending fees across multiple schools and academic years
+- Difficulty tracking fee payments by center, class level, or student category
+- Lack of visual indicators for different fee types making performance assessment difficult
+- Delayed insights on student dues impacting timely follow-ups and financial forecasting\n\nSolution: - Implemented a real-time analytics dashboard using Microsoft Power BI
+- Created live visualization of fee payments versus dues updated automatically
+- Added filters by school center, class, and academic year for focused data review
+- Broke down fee data by types such as tuition, admission, and examination fees
+- Visualized payment frequency types (monthly, one-time, termly, yearly) with bar charts
+- Enabled student-level tracking with detailed payment records
+- Included year-on-year comparison tools for fee performance
+- Designed solution for multi-campus scalability including Kenyan and Liberian schools\n\nSolution Benefits: - Centralized fee reporting across all locations reducing manual consolidation
+- Enabled data-driven communication with parents regarding fee status
+- Improved oversight of fee collection with real-time tracking
+- Facilitated early detection of payment irregularities like duplicates or unrecorded dues
+- Provided quick access to views of paid, due, and excess payments in one dashboard
+- Reduced time spent on report compilation allowing focus on informed decision-making\n\nKey Phrases: Microsoft Power BI, real-time dashboard, fee payments tracking, multi-campus scalability, filters by center/class/academic year, fee types breakdown, payment frequency visualization, student-level tracking, year-on-year comparison, centralized fee reporting, data-driven conversations, payment irregularities detection\n\nTechnology: Microsoft Power BI\n\nClient Location: East Africa (Kenya and Liberia)

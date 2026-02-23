@@ -1,0 +1,13 @@
+Case Study Name: PBI-MF-Streamlining Production & Complaint Analysis Automating Reports for a Leading Tyre Manufacturer- Case study\n\nCase Study Details:\n\nIndustry: Tyre Manufacturing\n\nChallenges: - Time-consuming manual workloads for report preparation and tracking.
+- Error-prone reports due to manual processes.
+- Lack of historical data for comparative analysis.
+- Delayed report availability, leading to outdated information.\n\nSolution: - Implemented a fully automated interactive Power BI Reports Solution.
+- Direct integration with SAP BW Source System for real-time data.
+- Incorporated complex logic calculations for detailed analysis.
+- Enabled comparative examination of products over different exposure periods.
+- Facilitated historical data analysis for informed decision-making.\n\nSolution Benefits: - Automated reports reduced manual workloads.
+- Direct SAP integration provided a single source of truth.
+- Enhanced accuracy and reliability of reports.
+- Up-to-date reports eliminated delays in availability.
+- User-friendly analysis with various filtering options.
+- Improved issue identification based on production data.\n\nKey Phrases: Power BI, SAP BW, automated reports, historical data analysis, comparative analysis, user-friendly interface, real-time data, complex logic calculations, decision-making, production efficiency\n\nTechnology: Power BI, SAP\n\nClient Location: Anaheim, CA

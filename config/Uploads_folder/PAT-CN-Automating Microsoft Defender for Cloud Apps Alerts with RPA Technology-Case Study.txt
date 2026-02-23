@@ -1,0 +1,10 @@
+Case Study Name: PAT-CN-Automating Microsoft Defender for Cloud Apps Alerts with RPA Technology-Case Study\n\nCase Study Details:\n\nIndustry: Software and Cloud Solutions\n\nChallenges: - Inadequate visibility into cloud app usage and data sharing activities.
+- Difficulty in enforcing consistent security policies across multiple cloud platforms.
+- Risk of data leakage due to unauthorized sharing and improper configurations.
+- Limited threat detection capabilities for cloud-based threats.\n\nSolution: - Real-time visibility and control over cloud app usage and data sharing.
+- Customizable security policies to ensure consistent protection across multiple cloud platforms.
+- Advanced threat detection using AI and machine learning to identify and respond to cloud-based threats.
+- Integration with Microsoft 365 Security Center for centralized management and incident response.\n\nSolution Benefits: - Increased visibility to Enterprises and SME firms across the globe.
+- Enhanced data protection.
+- Improved threat detection.
+- Streamlined management.\n\nKey Phrases: Microsoft Defender for Cloud Apps, AI, machine learning, Microsoft 365 Security Center, cloud app usage, data sharing, security policies, threat detection, data leakage.\n\nTechnology: Microsoft Defender for Cloud Apps, Microsoft 365 Security Center\n\nClient Location: Global

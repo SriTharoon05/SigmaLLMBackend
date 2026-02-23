@@ -1,0 +1,13 @@
+Case Study Name: PBI-HC-Claim Utilization Analytics in Healthcare-Case Study\n\nCase Study Details:\n\nIndustry: Healthcare\n\nChallenges: - Handling multiple clients’ ROIs in multiple datasets was more time consuming.
+- Analysis with dates, calculating PY claims, data comparison was not feasible between clients.
+- Claims based on ICD codes and categories with definitive trend axis along highlightable insights were not applicable with a scattered dataset from different clients.
+- Automating clients’ data into a reporting format.
+- Deciding the top claims exponentially with the cause and reason amongst all others based on ICD filters.\n\nSolution: - Provided file path system for automating the clients’ dataset with necessary data transformations and validation.
+- Included filtering scheme to slice between different clients along with top claims occurred in each node with visualizations.
+- Provided better visualization in the form of bar-charts, table forms, and active slicers for in-depth analysis over the data.
+- Enabled shareability within the organization for cooperative viewability.
+- Captured historical claims amount with detailed description on profit/loss data over the selected client by claim events occurred periodically.\n\nSolution Benefits: - Automated reporting process, reducing time spent on handling datasets.
+- Standardized claim data input format for improved data flow.
+- Enhanced data visualization for better insights and analysis.
+- Improved collaboration through shareable reports.
+- Detailed historical claims analysis for better decision-making.\n\nKey Phrases: claims utilization, healthcare costs, re-admissions, emergency department visits, complex care management, advanced disease management, ICD codes, data transformations, data visualizations, Power BI, historical claims analysis, profit/loss data\n\nTechnology: Power BI\n\nClient Location: Atlanta, Georgia

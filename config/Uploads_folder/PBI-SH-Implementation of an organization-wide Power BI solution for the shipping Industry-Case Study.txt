@@ -1,0 +1,16 @@
+Case Study Name: PBI-SH-Implementation of an organization-wide Power BI solution for the shipping Industry-Case Study\n\nCase Study Details:\n\nIndustry: Shipping\n\nChallenges: - Legacy systems in place leading to inefficiencies.
+- Non-availability of analytics platforms for standard reporting.
+- Lack of a consolidated reporting platform for automation.
+- Absence of a centralized reporting portal for detailed analysis.
+- Difficulty in generating real-time reports in finance and operations.
+- Challenges in monitoring and managing daily operational reports.\n\nSolution: - Implemented an organization-wide Business Intelligence (BI) system using Power BI.
+- Identified data sources for reporting.
+- Automated ETL processes for data handling.
+- Created a data warehouse for centralized data storage.
+- Prepared data for Power BI reports and dashboards.
+- Designed and created interactive Power BI reports and dashboards.\n\nSolution Benefits: - Established a consolidated reporting platform.
+- Provided analytical reports for all operations.
+- Enabled near real-time insights from reports.
+- Automated reports across the organization.
+- Developed interactive dashboards, reports, and charts.
+- Allowed report access from multiple devices and platforms.\n\nKey Phrases: Power BI, Business Intelligence, Key Performance Indicators (KPI), ETL processes, Data Warehouse, Data Visualization, Interactive Dashboards, Real-time Insights, Automated Reports\n\nTechnology: Power BI\n\nClient Location: Long Beach, California

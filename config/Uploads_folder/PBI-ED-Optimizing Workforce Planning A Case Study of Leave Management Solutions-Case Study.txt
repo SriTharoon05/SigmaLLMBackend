@@ -1,0 +1,18 @@
+Case Study Name: PBI-ED-Optimizing Workforce Planning A Case Study of Leave Management Solutions-Case Study\n\nCase Study Details:\n\nIndustry: Non-Governmental Organization\n\nChallenges: - Designation-Based Leave Management
+- Monthly Leave Tracking
+- Leave Allocation and Staff Count
+- Approval Process
+- Upcoming Leave Visibility
+- Dashboard Requirements
+- Gender Demographics\n\nSolution: - Implemented a Power BI dashboard for employee leave management
+- Designation-Based Leave Tracking for tailored management
+- Monthly Leave Analysis for better forecasting
+- Established a Leave Allocation System
+- Managed Approval Workflow with real-time tracking
+- Integrated Upcoming Leave Notifications
+- Created project-based and department-based views
+- Included Gender Demographics for leave usage analysis\n\nSolution Benefits: - Improved Efficiency in leave management processes
+- Enhanced Compliance with labor laws and internal policies
+- Data-Driven Decision Making with real-time data access
+- Increased Transparency for employees regarding leave usage
+- Proactive Management of staffing shortages\n\nKey Phrases: Power BI, Leave Management Solutions, Designation-Based Leave Tracking, Monthly Leave Analysis, Leave Allocation System, Approval Workflow Management, Upcoming Leave Notifications, Gender Demographics, Data-Driven Decision Making\n\nTechnology: Power BI\n\nClient Location: Nairobi, Kenya

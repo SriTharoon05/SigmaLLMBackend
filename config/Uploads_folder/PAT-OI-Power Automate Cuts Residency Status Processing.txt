@@ -1,0 +1,14 @@
+Case Study Name: PAT-OI-Power Automate Cuts Residency Status Processing\n\nCase Study Details:\n\nIndustry: Human Capital Services\n\nChallenges: - High-volume updates of 10,000+ IDs manually updated daily leading to data inconsistencies.
+- Portal login delays due to manual OTP entry.
+- Slow data retrieval requiring individual ID searches.
+- Excel file handling issues causing freezes or crashes.
+- Bulk upload errors due to file formatting issues and data duplications.
+- Data inconsistencies between internal systems and government portals.\n\nSolution: - Implemented automation workflows with Microsoft Power Automate and RPA tools.
+- Developed automated OTP handling to eliminate manual authentication.
+- Utilized batch processing for faster data retrieval of multiple employee IDs.
+- Optimized Excel performance with high-performance libraries and batch-writing logic.
+- Established a pre-validation system for bulk uploads to reduce errors.
+- Automated residency status validation and synchronization between systems.\n\nSolution Benefits: - Increased productivity by up to 30% through fully automated reports.
+- Direct integration of data sources eliminated numerical errors.
+- Enhanced operational efficiency through automation.
+- Achieved cost reduction by optimizing resource utilization and minimizing financial errors.\n\nKey Phrases: Power Automate, RPA tools, automated OTP handling, batch processing, Excel performance optimization, pre-validation system, automated status validation, productivity increase, operational efficiency, cost reduction.\n\nTechnology: Power Automate, RPA tools, high-performance Excel libraries.\n\nClient Location: Saudi Arabia

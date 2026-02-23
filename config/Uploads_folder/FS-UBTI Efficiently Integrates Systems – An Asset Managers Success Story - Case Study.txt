@@ -1,0 +1,7 @@
+Case Study Name: FS-UBTI Efficiently Integrates Systems – An Asset Managers Success Story - Case Study\n\nCase Study Details:\n\nIndustry: Asset Management\n\nChallenges: - Inconsistent data format from vendors
+- Insufficient resources to address support requests in a timely manner
+- Long-term enhancements overshadowed by urgent tasks\n\nSolution: - UBTI acted as an extension of the client's technology team
+- Streamlined processes using ETL tools and data integration services
+- Created a knowledge repository for efficient issue resolution\n\nSolution Benefits: - Improved focus on risk management and compliance
+- Reduced operational costs
+- Enhanced ability to address customer needs\n\nKey Phrases: ETL tools, data integration services, knowledge repository, risk management, compliance, operational costs, customer experience\n\nTechnology: Microsoft Power Platform\n\nClient Location: Anaheim, CA

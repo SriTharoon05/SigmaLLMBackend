@@ -1,0 +1,9 @@
+Case Study Name: AZ-AM-Azure cloud migration - A digital transformation to the cloud-Case Study\n\nCase Study Details:\n\nIndustry: Technology Solutions and Cloud Services\n\nChallenges: - Applications became inaccessible to users for over a week.
+- On-premise environment setup would take more than a month.
+- Portfolio managers and technical experts were idle due to application inaccessibility.\n\nSolution: - Migrated development and QA environments to Azure cloud.
+- Implemented Azure AD for user authentication and authorization.
+- Developed new Azure Web APIs while maintaining existing functionalities.
+- Migrated SQL workloads to Azure virtual machines for operational efficiency.
+- Deployed necessary cloud services within a VNet.\n\nSolution Benefits: - Optimized costs through efficient workload management and savings on resources.
+- Increased speed of processes with built-in backup and recovery options.
+- Enhanced security with automatic security patches from Azure.\n\nKey Phrases: Azure Cloud Migration, Azure AD, Azure Web APIs, SQL Server, VNet, cloud service providers, business continuity, Microsoft Gold Certified partner, data analytics.\n\nTechnology: Azure, Azure AD, Azure Web APIs, SQL Server, Azure virtual machines\n\nClient Location: Anaheim, CA

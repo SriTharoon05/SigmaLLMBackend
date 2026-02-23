@@ -1,0 +1,10 @@
+Case Study Name: UEFQLU9JLVVCVEkgTWFrZXMgQ2xpbmljYWwgRGF0YSBXb3JrIFNtYXJ0ZXIgd2l0aCBQb3dlciBQbGF0Zm9ybS5wZGY=\n\nCase Study Details:\n\nIndustry: Environmental Consulting and Water Treatment\n\nChallenges: - Lack of structured data from lab files
+- Complexity in handling multiple samples and tests
+- Manual data entry increasing risk of errors\n\nSolution: - Organized unstructured lab data into structured sections using SharePoint
+- Developed Power BI reports for data visualization
+- Implemented write-back functionality in Dataverse via Power Automate
+- Automated data collection and ETL process from labs into Dataverse\n\nSolution Benefits: - Real-time data synchronization across system and reports
+- Automated identification and filling of missing information
+- Clear and actionable data visuals with multiple Power BI reports
+- User-friendly onboarding with help resources
+- Saved approximately 4800 hours and $250K annually by automating manual tasks\n\nKey Phrases: PFAS contaminants, UV-catalyzed process, Eurofins Lab, Merit Lab, unstructured data, Dataverse, SharePoint, Power Apps, Power BI, Power Automate, write-back functionality, ETL (Extraction, Transformation, Loading), real-time data sync, automated workflows, 4800 hours saved, $250K annual savings\n\nTechnology: Microsoft Power Platform (Power Apps, Power BI, Power Automate), SharePoint, Dataverse\n\nClient Location: Anaheim, CA, USA

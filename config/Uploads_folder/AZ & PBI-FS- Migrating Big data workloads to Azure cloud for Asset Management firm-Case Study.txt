@@ -1,0 +1,9 @@
+Case Study Name: AZ & PBI-FS- Migrating Big data workloads to Azure cloud for Asset Management firm-Case Study\n\nCase Study Details:\n\nIndustry: Financial Services\n\nChallenges: - Application was on-premises and became inaccessible for over a week.
+- Delays in setting up the same environment on-premises would take more than a month.
+- Portfolio managers and technical experts were idle due to application downtime.\n\nSolution: - Migrated development and QA environments to Microsoft Azure Cloud.
+- Implemented Azure AD for user authentication and authorization.
+- Developed new Azure Web APIs while maintaining existing functionalities.
+- Migrated SQL workloads to Azure virtual machines for improved efficiency.
+- Deployed necessary cloud services within a VNet.\n\nSolution Benefits: - Optimized costs through efficient workload management and savings on maintenance.
+- Reduced time delays with built-in backup and recovery options.
+- Enhanced security with automatic security patches from Azure.\n\nKey Phrases: Azure Cloud Migration, Azure AD, Azure Web APIs, SQL Server, virtual machines, VNet, optimized costs, business continuity, enhanced security\n\nTechnology: Microsoft Azure\n\nClient Location: Not specified

@@ -1,0 +1,17 @@
+Case Study Name: PBI&PAT&PAP-MN-Work Order Management System for Manufacturing Company-Case Study\n\nCase Study Details:\n\nIndustry: Manufacturing\n\nChallenges: - Lack of integration
+- User-friendly interfaces
+- Role-based access control
+- Ineffective management of work orders
+- Need for centralized work order planning
+- Tracking product operations
+- Managing inspections
+- Ensuring compliance with quality standards\n\nSolution: - Implemented a data-driven solution using Microsoft Power App, Power Automate, Power BI, and Azure SQL
+- Established role-based access control for users
+- Defined roles such as Production Manager, Quality Inspector, and Technician with specific privileges
+- Enabled Production Managers to create and schedule work orders
+- Provided Technicians with access to detailed work instructions and task lists
+- Allowed Quality Inspectors to perform inspections and generate reports\n\nSolution Benefits: - Automated generation of accurate production reports
+- Analyzed production data for efficiency assessment
+- Monitored production progress to meet deadlines
+- Identified areas for improvement in production processes
+- Analyzed production quality using reports\n\nKey Phrases: Microsoft Power App, Power Automate, Power BI, Azure SQL, role-based access control, work order management, production efficiency, production quality, inspection reports, corrective actions\n\nTechnology: Microsoft Power App, Power Automate, Power BI, Azure SQL\n\nClient Location: Anaheim, CA

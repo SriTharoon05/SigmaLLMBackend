@@ -1,0 +1,12 @@
+Case Study Name: UEJJLU5HLVBvd2VyIEJJIEhlbHBlZCBUaGlzIE5HTyBTaW1wbGlmeSBIUiBSZXBvcnRpbmcgYW5kIFNhbGFyeSBBbmFseXNpcy5wZGY=\n\nCase Study Details:\n\nIndustry: Nonprofit organization focused on community support and development\n\nChallenges: - No view of budget utilization for payroll
+- No month-over-month comparison of salary payouts
+- Lack of visual insights into payroll data including allowances, deductions, savings, and loans\n\nSolution: - Built interactive Power BI dashboards for real-time payroll data visualization
+- Enabled filters by location, department, and year for detailed analysis
+- Tracked net pay versus gross pay to show deductions and benefits
+- Added detailed breakdown of payout components such as savings, loans, allowances, and advances
+- Included employee category insights (Total, Probation, Active, Inactive)
+- Mapped monthly salary variations to track changes and anomalies
+- Extended solution to multiple countries (Kenya, Liberia, Ethiopia)\n\nSolution Benefits: - Centralized payroll intelligence across all departments and locations
+- Reduced manual calculations and spreadsheet dependency, saving time and reducing errors
+- Better alignment with HR and compliance policies
+- Improved transparency and coordination between HR and finance teams\n\nKey Phrases: Microsoft Power BI, Azure SQL, payroll analytics system, interactive dashboards, filters by location/department/year, net pay vs gross pay, salary components, employee categories, monthly pay variations, multi-country payroll tracking\n\nTechnology: Power BI, Azure SQL\n\nClient Location: Kenya

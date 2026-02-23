@@ -1,0 +1,19 @@
+Case Study Name: FAB-OI-Migrating Azure SQL Data & Reports to Microsoft Fabric- Case Study\n\nCase Study Details:\n\nIndustry: Engineering and R&D Services\n\nChallenges: - Managing data across disparate platforms
+- Difficulty in gaining clear insights
+- Inefficient report generation
+- Ensuring data accuracy
+- Inability to perform advanced analytics effectively, including AI and ML activities\n\nSolution: - Migrated data environment to Microsoft Fabric
+- Integrated data from Azure SQL Server to Fabric Onelake using Data Pipelines
+- Designed and implemented robust data pipelines for daily and hourly data loads
+- Enabled dynamic reporting for easy access and refresh
+- Implemented built-in security features for data accuracy and governance
+- Adopted scalable architecture for future data growth
+- Developed and deployed machine learning models for risk prediction
+- Implemented data quality assurance with Data Activator
+- Incorporated Copilot functionality into Dataflow Gen2, Notebooks, and Power BI\n\nSolution Benefits: - Consolidated data environment for improved management and analysis
+- Optimized user experiences through user-friendly dashboards
+- Enhanced reporting efficiency with dynamic reports
+- Improved data governance and security
+- Increased productivity and performance through automation
+- Empowered decision-making with advanced analytics capabilities
+- Simplified management with unified licensing for SQL, Power BI, and ADF\n\nKey Phrases: Microsoft Fabric, Azure SQL Server, Data Factory, Power BI, Data Pipelines, dynamic reporting, built-in security, data governance, machine learning models, Data Activator, Copilot, unified data foundation, advanced analytics, risk prediction\n\nTechnology: Microsoft Fabric, Azure SQL Database, Data Factory, Power BI, Data Activator, Copilot\n\nClient Location: Anaheim, CA

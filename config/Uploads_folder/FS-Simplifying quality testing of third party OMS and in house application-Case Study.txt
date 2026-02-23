@@ -1,0 +1,8 @@
+Case Study Name: FS-Simplifying quality testing of third party OMS and in house application-Case Study\n\nCase Study Details:\n\nIndustry: Hedge Fund Management\n\nChallenges: - Inadequate quality in testing customizations and upgrades for the OMS and in-house application.
+- Long turnaround time for regression testing after each release of the OMS.\n\nSolution: - Engaged UBTI to independently test new releases of the OMS and in-house application.
+- Conducted training sessions for UBTI on the OMS and in-house application to understand client requirements.
+- Implemented both manual and automated testing for each release, improving quality standards and reducing turnaround time.\n\nSolution Benefits: - Achieved desired quality standards for testing.
+- Significantly reduced turnaround time for regression testing.
+- Enabled 20+ successful releases with a repository of over 3000+ test cases.
+- Provided flexibility to ramp up/down resources on demand.
+- Realized time and cost savings along with higher cost efficiency.\n\nKey Phrases: Order Management System (OMS), regression testing, manual testing, automated testing, 3000+ test cases, 20+ successful releases, asset management industry, quality standards, turnaround time, resource flexibility, time savings, cost efficiency.\n\nTechnology: Microsoft Azure, Azure Synapse\n\nClient Location: Los Angeles

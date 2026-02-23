@@ -1,0 +1,13 @@
+Case Study Name: FAB-MN-Migrating SAP Business Warehouse Data & Power BI Reports to Microsoft Fabric-Case Study\n\nCase Study Details:\n\nIndustry: Tyre Manufacturing\n\nChallenges: - Difficulty integrating diverse data sources from SAP Business Warehouse into Power BI due to complex data structures and formats.
+- Extended refresh times averaging over 40 minutes per cycle, delaying access to critical business insights.
+- High storage consumption and inefficient daily refresh cycles from large semantic models.
+- Cumbersome management of yearly cube date parameter expansions and regular maintenance of archive data flows.\n\nSolution: - Adopted Microsoft Fabric to overcome integration challenges and improve reporting efficiency.
+- Leveraged Dataflow Gen2 for streamlined data ingestion into the data warehouse.
+- Developed a custom semantic model for optimized analytics.
+- Implemented automated data pipelines for real-time incremental loads, eliminating manual maintenance.
+- Utilized Fabric's scalable architecture to accommodate growing data volumes and optimize file sizes.\n\nSolution Benefits: - Unified data management eliminating data silos and providing a better view of the organization's data.
+- Seamless integration with existing Microsoft tools like Power BI, expanding functionalities.
+- Increased visibility and empowerment for data-driven decision-making at all organizational levels.
+- Improved reporting efficiency with dynamic reports that are easily refreshed and accessible.
+- Enhanced data governance and security with built-in features ensuring data accuracy and consistency.
+- Greater scalability and flexibility to accommodate future data growth.\n\nKey Phrases: SAP Business Warehouse, Power BI, Microsoft Fabric, Dataflow Gen2, automated data pipelines, real-time incremental loads, unified data management, data-driven decision-making, enhanced data governance, scalable architecture.\n\nTechnology: Microsoft Fabric, Power BI, Dataflow Gen2, Data Factory, Onelake, SAP ECC\n\nClient Location: Anaheim, CA

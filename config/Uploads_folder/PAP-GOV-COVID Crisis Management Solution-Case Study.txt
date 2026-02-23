@@ -1,0 +1,12 @@
+Case Study Name: PAP-GOV-COVID Crisis Management Solution-Case Study\n\nCase Study Details:\n\nIndustry: Healthcare\n\nChallenges: - Inability to timely track, monitor, and treat COVID-19 patients
+- Existing manual system could not produce required data for pandemic reporting
+- Difficulty in managing and monitoring data effectively during peak COVID waves
+- Excessive reliance on manual data input slowing operations\n\nSolution: - Developed a low-code no-code application using Microsoft Power Apps
+- Migrated existing COVID-19 datasets to Power Apps data verse
+- Customized forms for different patient categories into a digital format
+- Implemented scheduled flows to automatically update patient status
+- Established role-based security architecture for data protection\n\nSolution Benefits: - Created a user-friendly app that reduces the burden on the healthcare system
+- Improved speed and reliability of data access through Power BI visualization reports
+- Enhanced patient safety and increased efficiency of the healthcare system
+- Simplified decision-making process with easier data maintenance
+- Enabled identification of infection rates and prediction of spread\n\nKey Phrases: COVID Crisis Management, Microsoft Power Platform, Power Apps, Power BI, low-code no-code application, data verse, role-based security, patient data management, infection rate tracking\n\nTechnology: Microsoft Power Apps, Power BI\n\nClient Location: India

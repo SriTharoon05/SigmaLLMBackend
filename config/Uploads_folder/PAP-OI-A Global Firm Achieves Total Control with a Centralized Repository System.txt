@@ -1,0 +1,11 @@
+Case Study Name: PAP-OI-A Global Firm Achieves Total Control with a Centralized Repository System\n\nCase Study Details:\n\nIndustry: Technology and Business Services\n\nChallenges: - Scattered Files: Important documents were stored in different systems, making them hard to find and manage.
+- Weak Access Control: Without strict role-based permissions, sensitive files risk being viewed by the wrong people.
+- Company-Wide Impact: The lack of a unified system slowed down the review and approval process, confusing departments.\n\nSolution: - Implemented a centralized document repository management system using Microsoft Power Apps, SharePoint Online, and Power Automate.
+- Created an intuitive documentation app for basic users to upload documents to a dedicated SharePoint library.
+- Established a central repository for secure file storage with metadata tracking.
+- Automated workflows for document review and approval processes.
+- Set up role-based access control (RBAC) for different user levels.\n\nSolution Benefits: - Better Document Organization: All files are in one place and easy to find.
+- Stronger Security: Clear access controls protect sensitive documents.
+- Faster Reviews and Approvals: Automated workflows speed up the review process and reduce delays.
+- Easy Compliance: Tracking metadata simplifies meeting audit and regulatory requirements.
+- Improved Collaboration: Unified system enhances efficiency among teams.\n\nKey Phrases: Centralized document repository, Microsoft Power Apps, SharePoint Online, Power Automate, role-based access control, automated workflows, document metadata, compliance tracking, document review process.\n\nTechnology: Microsoft Power Apps, SharePoint Online, Power Automate\n\nClient Location: Anaheim, CA

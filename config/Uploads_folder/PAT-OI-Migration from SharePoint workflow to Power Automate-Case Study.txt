@@ -1,0 +1,10 @@
+Case Study Name: PAT-OI-Migration from SharePoint workflow to Power Automate-Case Study\n\nCase Study Details:\n\nIndustry: Bioscience & Biotechnology\n\nChallenges: - Retirement of SharePoint 2010 workflows
+- Disruption of existing workflows and business processes
+- Need for migration to a new platform (Power Automate)
+- Requirement for customized workflows to ensure business continuity\n\nSolution: - Migration from SharePoint classic workflows to Power Automate
+- Implementation of customized Power Automate flows based on existing workflows
+- Addition of value-added features such as email reminders for pending approvals
+- Quick conversion of existing workflows to new platform\n\nSolution Benefits: - Improved business process continuity
+- Enhanced workflow management with multi-level sequential approvals
+- Automated notifications and reminders for pending approvals
+- Streamlined approval process with tracking and logging capabilities\n\nKey Phrases: Power Automate, SharePoint, workflow migration, email reminders, multi-level approvals, automated task reminders, approval summary logging, business process continuity\n\nTechnology: Power Automate\n\nClient Location: Denmark
