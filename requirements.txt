@@ -98,3 +98,6 @@ yarl==1.22.0
 zstandard==0.25.0
 whitenoise
 beautifulsoup4
+psycopg-pool
+psycopg[binary]
+langgraph-checkpoint-postgres
