@@ -8,7 +8,7 @@ import fitz
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_community.callbacks.manager import get_openai_callback
 from langchain_core.messages import SystemMessage, HumanMessage # Import Message Types
-
+from .checkpointer import get_checkpointer
 # Django setup
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend.settings")
 django.setup()
@@ -63,16 +63,16 @@ def track_token_usage_and_store(conversation, callback):
     conversation.save()
 
 # ------------------- Main Orchestration -------------------
-memory = MemorySaver()
+checkpointer = get_checkpointer()
 
 # Initialize Agents
 AGENTS = {
-    "timesheet": get_timesheet_agent(memory),
-    "hubspot": get_hubspot_agent(memory),
-    "documents": get_rag_agent(memory),
-    "lms": get_lms_agent(memory),
-    "ubtilookup": get_ubti_agent(memory),
-    "general": get_general_agent(memory)
+    "timesheet": get_timesheet_agent(checkpointer),
+    "hubspot": get_hubspot_agent(checkpointer),
+    "documents": get_rag_agent(checkpointer),
+    "lms": get_lms_agent(checkpointer),
+    "ubtilookup": get_ubti_agent(checkpointer),
+    "general": get_general_agent(checkpointer)
 }
 
 def ask_agent(prompt: str, trinity_Auth: str, lms_jwt_token: str, strEmpID: str, user=None, conversation_id=None):

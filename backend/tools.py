@@ -11,7 +11,6 @@ from sentence_transformers import SentenceTransformer
 # ------------------- Django setup -------------------
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "backend.settings")
 django.setup()
-from rich.pretty import pprint
 from langchain_core.tools import tool,StructuredTool
 
 from langchain_community.document_loaders import WebBaseLoader
