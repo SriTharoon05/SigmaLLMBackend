@@ -21,6 +21,8 @@ class TimesheetState(TypedDict):
     messages: Annotated[List[BaseMessage], operator.add]
     current_stage: Annotated[str, replace]
     project_list_context: Annotated[str, replace]
+    week_ending: Annotated[str, replace]        # ← ADD
+    selected_project: Annotated[str, replace]
 # --- 3. Define Nodes ---
 
 def intent_router(state: TimesheetState, config):
@@ -129,7 +131,8 @@ def init_node(state: TimesheetState, config):
         return {
             "messages": [AIMessage(content=formatted_msg)],
             "current_stage": "project",
-            "project_list_context": result 
+            "project_list_context": result,
+            "week_ending": extracted_date 
         }
 
 def project_node(state: TimesheetState, config):
@@ -186,15 +189,15 @@ def project_node(state: TimesheetState, config):
     else:
         return {
             "messages": [AIMessage(content=f"{result}\n\nPlease provide the hours (e.g., 'Monday - 9 hours, Tuesday - 9 hours').")],
-            "current_stage": "log"
+            "current_stage": "log",
+            "selected_project": target_name,
         }
 
 def log_node(state: TimesheetState, config):
     """Step 3: Handle Logging Hours"""
     messages = state["messages"]
     last_user_msg = messages[-1].content
-    
-    # Updated Prompt to handle "Monday - 9 hours" format
+
     extractor_prompt = f"""
     The user input describes hours worked: "{last_user_msg}"
     
@@ -210,27 +213,26 @@ def log_node(state: TimesheetState, config):
     - Values must be numbers (float or int).
     - If no valid hours found, return 'INVALID'.
     """
-    
+
     extraction = llm.invoke(extractor_prompt).content
     pprint((f"-------------------------extraction:", extraction))
+
     if "INVALID" in extraction:
-         return {
+        return {
             "messages": [AIMessage(content="I couldn't understand those hours. Please use the format: 'Monday - 9 hours'.")],
             "current_stage": "log"
         }
 
     try:
-        # Parse JSON
         json_str = extraction.replace("```json", "").replace("```", "").strip()
         hours_dict = json.loads(json_str)
-        
-        # --- FIX IS HERE ---
-        # Wrap the hours_dict in the expected argument name "day_hours"
-        tool_input = {"day_hours": hours_dict}
-        
-        # Call Log Tool with correct wrapper
-        result = log_hours.invoke(tool_input, config=config)
-        
+
+        # ✅ Inject week_ending and selected_project from state into config
+        config["configurable"]["week_ending"] = state.get("week_ending", "")
+        config["configurable"]["selected_project"] = state.get("selected_project", "")
+
+        result = log_hours.invoke({"day_hours": hours_dict}, config=config)
+
         return {
             "messages": [AIMessage(content=f"{result}\n\nDo you want to **SAVE** or **SUBMIT** this timesheet?")],
             "current_stage": "submit"
@@ -241,31 +243,35 @@ def log_node(state: TimesheetState, config):
             "current_stage": "log"
         }
 
+
 def submit_node(state: TimesheetState, config):
     """Step 4: Save or Submit"""
     messages = state["messages"]
     last_user_msg = messages[-1].content.lower()
-    
+
     if "submit" in last_user_msg:
         action = "submit"
     elif "save" in last_user_msg:
         action = "save"
     else:
-        # Ambiguous input. Ask again.
         return {
             "messages": [AIMessage(content="Please clarify: do you want to **Save** or **Submit**?")],
             "current_stage": "submit"
         }
 
-    # Call Save/Submit Tool
+    # ✅ Inject week_ending from state into config so save_timesheet tool can access it
+    config["configurable"]["week_ending"] = state.get("week_ending", "")
+    config["configurable"]["selected_project"] = state.get("selected_project", "")
+
     result = save_timesheet.invoke({"action": action}, config=config)
-    
+
     return {
         "messages": [AIMessage(content=f"{result}\n\nTimesheet process complete!")],
         "current_stage": "done",
-        "project_list_context": ""   # 👈 important reset
+        "project_list_context": "",
+        "week_ending": "",          # ✅ reset after done
+        "selected_project": "",     # ✅ reset after done
     }
-
 
 
 # --- 4. Build Graph ---
