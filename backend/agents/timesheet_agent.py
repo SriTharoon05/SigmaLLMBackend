@@ -82,14 +82,14 @@ def init_node(state: TimesheetState, config):
     pprint(f"Current Date: {currentDate}")
     check_prompt = f"""
     Analyze the user input: "{last_user_msg}"
-    
     Task: Extract the specific date reference if present.
-    IF user told "Last Friday" or "This Friday" use Current Date : {currentDate} and find the corresponding date.
+    IF user told "Last Friday" or "This Friday" use Current Date: {currentDate} and find the corresponding date in MM/dd/yyyy format.
     CRITICAL OUTPUT RULES:
     1. If a date is found, convert it to MM/dd/yyyy format.
-    2. Return ONLY the date string (e.g., 01/16/2026). 
-    3. Do NOT include words like "The date is", "Extracted:", or any markdown formatting (no bold **).
-    4. If NO date is found (e.g., input is just "fill timesheet"), return exactly: MISSING
+    2. Always ensure the date is a Friday (week ending date). If user gave a different day, find the nearest Friday.
+    3. Return ONLY the date string (e.g., 01/16/2026).
+    4. Do NOT include words like "The date is", "Extracted:", or any markdown.
+    5. If NO date is found, return exactly: MISSING
     """
     
     extracted_date = llm.invoke(check_prompt).content.strip()
@@ -183,7 +183,8 @@ def project_node(state: TimesheetState, config):
 
     if "Error" in result or "Multiple projects" in result:
         return {
-            "messages": [AIMessage(content=result)],
+            #"messages": [AIMessage(content=result)],
+            "messages": [AIMessage(content=f"{result}\n\nPlease clarify which project you want to work on.")],
             "current_stage": "project"
         }
     else:
@@ -200,18 +201,23 @@ def log_node(state: TimesheetState, config):
 
     extractor_prompt = f"""
     The user input describes hours worked: "{last_user_msg}"
-    
-    Extract the hours for each day mentioned.
-    Input format examples:
-    If user mentioned Mon to Fri each day 9 hours means fill json according to that.
-    If user mentioned Mon to wed 9 hrs and rest 2 days 8 hrs then fill accordingly.
-    You must understand the mapping of short forms to full day names.
-    "Monday - 9 hours", "Mon: 9", "9 hours on Monday".
-    
-    Return STRICT JSON: {{"monday": 9, "tuesday": 9}}. 
-    - Keys must be lowercase full day names.
-    - Values must be numbers (float or int).
-    - If no valid hours found, return 'INVALID'.
+
+    Task: Extract hours for a full 7-day week.
+    Rules:
+    1. Handle ranges: "Monday to Friday" → apply hours to each day individually.
+    2. Handle synonyms: "weekdays" = Mon-Fri, "weekend" = Sat-Sun.
+    3. Return JSON with exactly 7 keys: monday, tuesday, wednesday, thursday, friday, saturday, sunday.
+    4. Unmentioned days → 0.
+    5. Return ONLY strict JSON. If input is unrelated, return 'INVALID'.
+
+    Example 1: "mon to wed 9 hours"
+    Output: {{"monday": 9, "tuesday": 9, "wednesday": 9, "thursday": 0, "friday": 0, "saturday": 0, "sunday": 0}}
+
+    Example 2: "this whole week 9 hours"
+    Output: {{"monday": 9, "tuesday": 9, "wednesday": 9, "thursday": 9, "friday": 9, "saturday": 0, "sunday": 0}}
+
+    Example 3: "this whole week 9 hours and sat sunday 4 hours each day"
+    Output: {{"monday": 9, "tuesday": 9, "wednesday": 9, "thursday": 9, "friday": 9, "saturday": 4, "sunday": 4}}
     """
 
     extraction = llm.invoke(extractor_prompt).content
@@ -219,7 +225,7 @@ def log_node(state: TimesheetState, config):
 
     if "INVALID" in extraction:
         return {
-            "messages": [AIMessage(content="I couldn't understand those hours. Please use the format: 'Monday - 9 hours'.")],
+            "messages": [AIMessage(content="I couldn't understand those hours. Please mention it properly like Monday to Friday ( 9 hours each day ) like that.")],
             "current_stage": "log"
         }
 
@@ -239,7 +245,8 @@ def log_node(state: TimesheetState, config):
         }
     except Exception as e:
         return {
-            "messages": [AIMessage(content=f"Error processing hours: {str(e)}. Please try again.")],
+            #"messages": [AIMessage(content=f"Error processing hours: {str(e)}. Please try again.")],
+            "messages": [AIMessage(content=f"Error processing hours, Could you please try again?")],
             "current_stage": "log"
         }
 
